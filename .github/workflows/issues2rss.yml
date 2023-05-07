@@ -7,9 +7,6 @@ jobs:
   issue_to_rss:
     runs-on: ubuntu-latest
 
-    env:
-      TOKEN: ${{ secrets.TOKEN }}
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -26,9 +23,7 @@ jobs:
         run: node bin/issues2rss.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TOKEN: ${{ secrets.TOKEN }}
-          OWNER: ${{ vars.OWNER }}
-          REPO: posts
+          REPOSITORY: ${{ secrets.REPOSITORY }}
 
       - name: Commit and push changes
         run: |

@@ -6,12 +6,12 @@ const axios = require( 'axios' );
 (async () => {
   try {
     const token   = process.env.GITHUB_TOKEN,
-          repos   = process.env.GITHUB_REPOSITORY.split( '/' ),
+          repos   = process.env.REPOSITORY.split( '/' ),
           owner   = repos[0],
-          repo    = process.env.REPO,
+          repo    = repos[1],
           octokit = new Octokit({ auth: token });
 
-    console.log( 'asdadfasd', token, owner, repo, process.env.TOKEN, process.env.OWNER, process.env.REPO )
+    console.log( 'asdadfasd', token, owner, repo )
 
     const { data: issues } = await octokit.request( `GET /repos/${owner}/${repo}/issues`, {
         owner,
