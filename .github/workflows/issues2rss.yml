@@ -10,6 +10,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          ref: 'master'
+
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v2
+        with:
+          ref: 'gh-pages'
+          path: gh-pages
 
       - name: Setup Node.js
         uses: actions/setup-node@v2
@@ -25,17 +33,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: ${{ secrets.REPOSITORY }}
 
+      - name: Move rss.xml to gh-pages
+        run: |
+          mv rss.xml gh-pages/
+
       - name: Commit and push changes
         run: |
-          git config user.name "23784148"
-          git config user.email "kenshin726@hotmail.com"
-          git add -A
-          git commit -m "Update RSS feed with new issue."
-          git checkout gh-pages -- rss.xml
-          git add .
+          cd gh-pages
+          git add rss.xml
           git commit -m "Update RSS feed with new issue."
           git push origin gh-pages
-          git checkout master
-          git rm rss.xml
-          git commit -m "Remove temporary file."
-          git push
