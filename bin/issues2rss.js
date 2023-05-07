@@ -1,7 +1,7 @@
-const fs = require( 'fs' );
-const { Octokit } = require( '@octokit/core' );
-const RSS = require( 'rss' );
-const axios = require( 'axios' );
+const fs          = require( 'fs' ),
+      { Octokit } = require( '@octokit/core' ),
+      axios       = require( 'axios' ),
+      RSS         = require( 'rss' );
 
 (async () => {
   try {
