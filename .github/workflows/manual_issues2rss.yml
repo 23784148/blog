@@ -1,4 +1,4 @@
-name: Issue to RSS
+name: Manual Issue to RSS
 
 on:
   workflow_dispatch:
