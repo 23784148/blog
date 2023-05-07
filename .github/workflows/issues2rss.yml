@@ -29,6 +29,11 @@ jobs:
         run: |
           git config user.name "23784148"
           git config user.email "kenshin726@hotmail.com"
+          git stash
+          git checkout gh-pages
+          git stash apply
           git add -A
-          git commit -m "Update RSS feed with new issue"
-          git push
+          git commit -m "Update RSS feed with new issue."
+          git push origin gh-pages
+          git checkout master
+          git rm rss.xml
