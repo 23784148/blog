@@ -7,6 +7,9 @@ jobs:
   issue_to_rss:
     runs-on: ubuntu-latest
 
+    env:
+      TOKEN: ${{ secrets.TOKEN }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
