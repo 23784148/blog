@@ -17,8 +17,6 @@ const fs          = require( 'fs' ),
         per_page: 20,
     });
 
-    console.log( 'safadfadf', process.env.FEED_URL, process.env.SITE_URL )
-
     /*
     const query = `
         query {
@@ -66,8 +64,8 @@ const fs          = require( 'fs' ),
     const feed = new RSS({
         title: 'Kenshin\'s Blog',
         description: '独立开发者，全栈工程师，Chrome 扩展：简悦、简 Tab 以及 gnvm 作者。',
-        feed_url: `https://${owner}.github.io/${repo}/rss.xml`,
-        site_url: `https://github.com/${owner}/${repo}/issues`,
+        feed_url:  process.env.FEED_URL,
+        site_url: process.env.SITE_URL,
     });
 
     issues.forEach( issue => {
