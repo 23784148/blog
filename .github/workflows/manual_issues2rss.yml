@@ -32,6 +32,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: ${{ secrets.REPOSITORY }}
+          FEED_URL: ${{ vars.FEED_URL }}
+          SITE_URL: ${{ vars.SITE_URL }}
 
       - name: Move rss.xml to gh-pages
         run: |

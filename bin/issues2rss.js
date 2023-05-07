@@ -17,6 +17,8 @@ const fs          = require( 'fs' ),
         per_page: 20,
     });
 
+    console.log( 'safadfadf', process.env.FEED_URL, process.env.SITE_URL )
+
     /*
     const query = `
         query {
