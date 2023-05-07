@@ -5,11 +5,11 @@ const axios = require( 'axios' );
 
 (async () => {
   try {
-    const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
-    const token = process.env.GITHUB_TOKEN;
-    const repos = process.env.GITHUB_REPOSITORY.split( '/' ),
-          owner = repos[0] || '23784148',
-          repo  = 'posts';
+    const token   = process.env.GITHUB_TOKEN,
+          repos   = process.env.GITHUB_REPOSITORY.split( '/' ),
+          owner   = repos[0],
+          repo    = process.env.REPO,
+          octokit = new Octokit({ auth: token });
 
     console.log( 'asdadfasd', token, owner, repo, process.env.TOKEN, process.env.OWNER, process.env.REPO )
 
