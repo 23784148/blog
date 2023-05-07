@@ -11,12 +11,10 @@ const axios = require( 'axios' );
           repo    = repos[1],
           octokit = new Octokit({ auth: token });
 
-    console.log( 'asdadfasd', token, owner, repo )
-
     const { data: issues } = await octokit.request( `GET /repos/${owner}/${repo}/issues`, {
         owner,
         repo,
-        per_page: 10,
+        per_page: 20,
     });
 
     /*
@@ -82,8 +80,8 @@ const axios = require( 'axios' );
 
     fs.writeFileSync( './rss.xml', feed.xml({ indent: true }));
 
-    } catch (error) {
-        console.error(error);
+    } catch ( error ) {
+        console.error( error );
         process.exit(1);
     }
 })();
