@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  issue_to_rss:
+  manual_issue_to_rss:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout master repository
         uses: actions/checkout@v2
         with:
           ref: 'master'
@@ -40,6 +40,8 @@ jobs:
       - name: Commit and push changes
         run: |
           cd gh-pages
+          git config user.name "23784148"
+          git config user.email "kenshin726@hotmail.com"
           git add rss.xml
           git commit -m "Update RSS feed with new issue."
           git push origin gh-pages
