@@ -62,9 +62,9 @@ const fs          = require( 'fs' ),
     */
 
     const feed = new RSS({
-        title: 'Kenshin\'s Blog',
-        description: '独立开发者，全栈工程师，Chrome 扩展：简悦、简 Tab 以及 gnvm 作者。',
-        feed_url:  process.env.FEED_URL,
+        title: process.env.TITLE,
+        description: process.env.DESCRIPTION,
+        feed_url: process.env.FEED_URL,
         site_url: process.env.SITE_URL,
     });
 
