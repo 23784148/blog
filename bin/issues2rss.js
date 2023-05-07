@@ -9,9 +9,9 @@ const axios = require( 'axios' );
     const token = process.env.GITHUB_TOKEN;
     const repos = process.env.GITHUB_REPOSITORY.split( '/' ),
           owner = repos[0] || '23784148',
-          repo  = repos[1] || 'posts';
+          repo  = 'posts';
 
-    console.log( 'asdadfasd', token, owner, repo, process.env.GITHUB_REPOSITORY )
+    console.log( 'asdadfasd', token, owner, repo, process.env.TOKEN, process.env.OWNER, process.env.REPO )
 
     const { data: issues } = await octokit.request( `GET /repos/${owner}/${repo}/issues`, {
         owner,
