@@ -63,6 +63,8 @@ const fs          = require( 'fs' ),
     });
 
     issues.forEach( issue => {
+        issue = issue.node;
+        console.log( issue )
         feed.item({
             title: issue.title,
             description: issue.body,
