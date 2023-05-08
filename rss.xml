@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[Kenshin's Blog]]></title>
+        <description><![CDATA[独立开发者，全栈工程师，Chrome 扩展：简悦、简 Tab、GNVM 以及技术图书作者。]]></description>
         <link>https://kenshin.wang/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 May 2023 05:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 05:55:11 GMT</lastBuildDate>
         <atom:link href="https://kenshin.wang/blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[碎碎念]]></title>
