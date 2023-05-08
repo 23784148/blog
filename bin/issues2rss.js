@@ -1,7 +1,7 @@
 const fs          = require( 'fs' ),
       axios       = require( 'axios' ),
       RSS         = require( 'rss' );
-
+''
 (async () => {
   try {
     const token   = process.env.GITHUB_TOKEN,
@@ -38,7 +38,7 @@ const fs          = require( 'fs' ),
     const response = await axios.post( 'https://api.github.com/graphql', { query }, {
             headers: {
                 Authorization: `Bearer ${token}`,
-                "Content-Type": "application/json",
+                'Content-Type': 'application/json',
             },
         }
     );
@@ -56,7 +56,7 @@ const fs          = require( 'fs' ),
         issue = issue.node;
         feed.item({
             title: issue.title,
-            description: issue.body,
+            description: issue.bodyHTML,
             url: process.env.SITE_URL + '/#/posts/' + issue.number,
             author: issue.author.login,
             date: issue.created_at,
