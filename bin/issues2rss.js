@@ -1,7 +1,7 @@
 const fs          = require( 'fs' ),
       axios       = require( 'axios' ),
       RSS         = require( 'rss' );
-''
+
 (async () => {
   try {
     const token   = process.env.GITHUB_TOKEN,
