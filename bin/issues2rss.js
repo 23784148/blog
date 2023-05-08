@@ -43,7 +43,7 @@ const fs          = require( 'fs' ),
         }
     );
 
-    const issues = response.data.data.repository.issues.edges;
+    const issues = response.data.data.repository.issues.edges.reverse();
 
     const feed = new RSS({
         title: process.env.TITLE,
