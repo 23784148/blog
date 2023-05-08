@@ -55,11 +55,6 @@ const fs          = require( 'fs' ),
 
     const issues = response.data.data.repository.issues.edges;
 
-    issues.forEach( issue => {
-        const node = issue.node;
-        console.log(`${node.title} - ${node.createdAt} - ${node.author.login}`);
-    });
-
     const feed = new RSS({
         title: process.env.TITLE,
         description: process.env.DESCRIPTION,
