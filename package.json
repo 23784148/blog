@@ -13,7 +13,6 @@
     "email": "kenshin@ksria.com"
   },
   "dependencies": {
-    "@octokit/core": "^4.2.0",
     "axios": "^1.4.0",
     "fs": "^0.0.1-security",
     "rss": "^1.2.2"

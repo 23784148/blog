@@ -1,5 +1,4 @@
 const fs          = require( 'fs' ),
-      { Octokit } = require( '@octokit/core' ),
       axios       = require( 'axios' ),
       RSS         = require( 'rss' );
 
@@ -8,16 +7,7 @@ const fs          = require( 'fs' ),
     const token   = process.env.GITHUB_TOKEN,
           repos   = process.env.REPOSITORY.split( '/' ),
           owner   = repos[0],
-          repo    = repos[1],
-          octokit = new Octokit({ auth: token });
-
-    /*
-    const { data: issues } = await octokit.request( `GET /repos/${owner}/${repo}/issues`, {
-        owner,
-        repo,
-        per_page: 20,
-    });
-    */
+          repo    = repos[1];
 
     const query = `
         query {
@@ -64,7 +54,6 @@ const fs          = require( 'fs' ),
 
     issues.forEach( issue => {
         issue = issue.node;
-        console.log( issue )
         feed.item({
             title: issue.title,
             description: issue.body,
