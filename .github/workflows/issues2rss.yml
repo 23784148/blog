@@ -38,6 +38,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: ${{ secrets.REPOSITORY }}
+          TITLE: ${{ vars.TITLE }}
+          DESCRIPTION: ${{ vars.DESCRIPTION }}
           FEED_URL: ${{ vars.FEED_URL }}
           SITE_URL: ${{ vars.SITE_URL }}
 
