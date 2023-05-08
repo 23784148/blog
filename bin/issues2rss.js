@@ -66,8 +66,8 @@ const fs          = require( 'fs' ),
         feed.item({
             title: issue.title,
             description: issue.body,
-            url: issue.html_url,
-            author: issue.user.login,
+            url: process.env.SITE_URL + '/#/posts/' + issue.number,
+            author: issue.author.login,
             date: issue.created_at,
         });
     });
