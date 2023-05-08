@@ -4,14 +4,14 @@
         <description><![CDATA[独立开发者，全栈工程师，Chrome 扩展：简悦、简 Tab、GNVM 以及技术图书作者。]]></description>
         <link>https://kenshin.wang/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 May 2023 06:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 06:24:55 GMT</lastBuildDate>
         <atom:link href="https://kenshin.wang/blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[碎碎念]]></title>
             <description><![CDATA[<p dir="auto">这里会放一些随时想到 / 想发的内容。</p>
 <p dir="auto"><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/34</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/34</guid>
+            <link>https://kenshin.wang/blog/#/post/34</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/post/34</guid>
             <dc:creator><![CDATA[23784148]]></dc:creator>
             <pubDate>Mon, 08 May 2023 04:42:38 GMT</pubDate>
         </item>
@@ -42,8 +42,8 @@
 <li>战斗力：本身就没有啥战斗力，片头虽然（用重力）碾压亚当（我认为完全是为了剧情需要...），最后被一个重力靴搞定，然后被银河天团爆揍到没有任何还手之力...（要知道同样被碾压的亚当在片头几乎团灭了主角团 <g-emoji class="g-emoji" alias="joy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f602.png">😂</g-emoji></li>
 </ul>
 <p dir="auto">我觉得，斯科特巨大化后一脚就能解决...</p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/33</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/33</guid>
+            <link>https://kenshin.wang/blog/#/post/33</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/post/33</guid>
             <dc:creator><![CDATA[23784148]]></dc:creator>
             <pubDate>Sat, 06 May 2023 11:35:08 GMT</pubDate>
         </item>
@@ -83,8 +83,8 @@
 <p dir="auto">用的是支付宝里面的 <a href="https://www.fmy90.com/" rel="nofollow">飞蚂蚁</a>  ，书走的京东；衣服走的徳邦。京东很快就上门了，徳邦差不多隔了 3 个小时才收走，而且还没有打包的，分了两批次邮走，第二次还得在支付宝下单。</p>
 <p dir="auto">从服务上来说，京东秒杀徳邦，所以有的时候公司做大了，是有做大的道理。</p>
 <p dir="auto">我感觉目前来说服务和效率最高的还是顺丰，其次是京东，然后是那些普通快递。</p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/32</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/32</guid>
+            <link>https://kenshin.wang/blog/#/post/32</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/post/32</guid>
             <dc:creator><![CDATA[23784148]]></dc:creator>
             <pubDate>Thu, 04 May 2023 11:31:12 GMT</pubDate>
         </item>
@@ -138,8 +138,8 @@ Chrome Webstore 下载地址 <g-emoji class="g-emoji" alias="point_right" fallba
 简悦 · 高级账户一枚</p>
 <p dir="auto"><strong>开奖</strong><br>
 请关注 <a href="https://t.me/simpread" rel="nofollow">https://t.me/simpread</a> 我在【2021年3月23日】之后择日公布抽奖结果。</p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/31</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/31</guid>
+            <link>https://kenshin.wang/blog/#/post/31</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/post/31</guid>
             <dc:creator><![CDATA[23784148]]></dc:creator>
             <pubDate>Wed, 10 Mar 2021 04:39:57 GMT</pubDate>
         </item>
@@ -200,8 +200,8 @@ Chrome Webstore 下载地址 <g-emoji class="g-emoji" alias="point_right" fallba
 <blockquote>
 <p dir="auto">以上就是关于 Revue 的一些简单介绍，希望你能喜欢。 <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">😁</g-emoji></p>
 </blockquote>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/30</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/30</guid>
+            <link>https://kenshin.wang/blog/#/post/30</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/post/30</guid>
             <dc:creator><![CDATA[23784148]]></dc:creator>
             <pubDate>Sun, 07 Feb 2021 08:52:24 GMT</pubDate>
         </item>
@@ -254,8 +254,8 @@ Chrome Webstore 下载地址 <g-emoji class="g-emoji" alias="point_right" fallba
 <blockquote>
 <p dir="auto">至于我会在 Cloubhouse 上面干什么？目前的初步想法是新版本发布后的一些功能说明，或许会放到它的上面。</p>
 </blockquote>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/29</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/29</guid>
+            <link>https://kenshin.wang/blog/#/post/29</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/post/29</guid>
             <dc:creator><![CDATA[23784148]]></dc:creator>
             <pubDate>Sun, 07 Feb 2021 08:50:45 GMT</pubDate>
         </item>
@@ -284,8 +284,8 @@ Chrome Webstore 下载地址 <g-emoji class="g-emoji" alias="point_right" fallba
 </ol>
 <p dir="auto">另外，上述内容都可以在简悦 · 订阅中心查看 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://simpread.pro/subscribe" rel="nofollow">https://simpread.pro/subscribe</a> 未来会增加更多的可以订阅的资源。</p>
 <p dir="auto">备注：2 ~3 订阅源来自社区的 <a href="https://t.me/ZyTomorrow" rel="nofollow">@ZyTomorrow</a> <g-emoji class="g-emoji" alias="pray" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png">🙏</g-emoji></p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/28</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/28</guid>
+            <link>https://kenshin.wang/blog/#/post/28</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/post/28</guid>
             <dc:creator><![CDATA[23784148]]></dc:creator>
             <pubDate>Thu, 14 Jan 2021 03:22:03 GMT</pubDate>
         </item>
@@ -373,8 +373,8 @@ Chrome Webstore 下载地址 <g-emoji class="g-emoji" alias="point_right" fallba
 </li>
 </ul>
 <p dir="auto">开启 <strong>自动同步</strong> 后，<strong>同步助手负责读取/保存数据</strong>，简悦负责阅读模式或发送稍后读。（所以需要同步助手一直在运行）</p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/27</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/27</guid>
+            <link>https://kenshin.wang/blog/#/post/27</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/post/27</guid>
             <dc:creator><![CDATA[23784148]]></dc:creator>
             <pubDate>Thu, 14 Jan 2021 03:19:05 GMT</pubDate>
         </item>
@@ -426,8 +426,8 @@ Chrome Webstore 下载地址 <g-emoji class="g-emoji" alias="point_right" fallba
 <li>同时此文章也会实时同步到 <a href="https://threadreaderapp.com/thread/1349202560972972040.html" rel="nofollow">https://threadreaderapp.com/thread/1349202560972972040.html</a></li>
 <li>也请关注我在 <a href="https://threadreaderapp.com/user/wanglei001" rel="nofollow">Threaded App 的帐号</a></li>
 </ol>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/26</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/26</guid>
+            <link>https://kenshin.wang/blog/#/post/26</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/post/26</guid>
             <dc:creator><![CDATA[23784148]]></dc:creator>
             <pubDate>Thu, 14 Jan 2021 03:09:15 GMT</pubDate>
         </item>
@@ -540,8 +540,8 @@ Chrome Webstore 下载地址 <g-emoji class="g-emoji" alias="point_right" fallba
 <h3 dir="auto">最后</h3>
 <p dir="auto">在这里只是抛砖引玉的说了下 简悦 与 Obsidian 的配合方案，这也仅仅只是其中一种而已。因为简悦 与 Obsidian 都天然支持本地文件系统，所以基于此可以实现更多的联动，欢迎有更多关于此的使用方案。</p>
 <p dir="auto"><g-emoji class="g-emoji" alias="pray" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png">🙏</g-emoji></p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/25</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/25</guid>
+            <link>https://kenshin.wang/blog/#/post/25</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/post/25</guid>
             <dc:creator><![CDATA[23784148]]></dc:creator>
             <pubDate>Tue, 29 Dec 2020 05:30:20 GMT</pubDate>
         </item>
