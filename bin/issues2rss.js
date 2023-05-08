@@ -43,7 +43,7 @@ const fs          = require( 'fs' ),
         }
     );
 
-    const issues = response.data.data.repository.issues.edges.reverse();
+    const issues = response.data.data.repository.issues.edges;
 
     const feed = new RSS({
         title: process.env.TITLE,
@@ -59,7 +59,7 @@ const fs          = require( 'fs' ),
             description: issue.bodyHTML,
             url: process.env.SITE_URL + '/#/posts/' + issue.number,
             author: issue.author.login,
-            date: issue.created_at,
+            date: issue.createdAt,
         });
     });
 
