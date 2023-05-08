@@ -57,7 +57,7 @@ const fs          = require( 'fs' ),
         feed.item({
             title: issue.title,
             description: issue.bodyHTML,
-            url: process.env.SITE_URL + '/#/posts/' + issue.number,
+            url: process.env.SITE_URL + '/#/post/' + issue.number,
             author: issue.author.login,
             date: issue.createdAt,
         });
