@@ -4,8 +4,433 @@
         <description><![CDATA[独立开发者，全栈工程师，Chrome 扩展：简悦、简 Tab、GNVM 以及技术图书作者。]]></description>
         <link>https://kenshin.wang/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 May 2023 06:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 06:21:03 GMT</lastBuildDate>
         <atom:link href="https://kenshin.wang/blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[碎碎念]]></title>
+            <description><![CDATA[<p dir="auto">这里会放一些随时想到 / 想发的内容。</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p>]]></description>
+            <link>https://kenshin.wang/blog/#/posts/34</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/34</guid>
+            <dc:creator><![CDATA[23784148]]></dc:creator>
+            <pubDate>Mon, 08 May 2023 04:42:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[《银河护卫队3》归来]]></title>
+            <description><![CDATA[<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/31840739/236621540-f389abc5-52df-4b43-b320-65a8988d3a32.png"><img src="https://user-images.githubusercontent.com/31840739/236621540-f389abc5-52df-4b43-b320-65a8988d3a32.png" alt="image" style="max-width: 100%;"></a></p>
+<blockquote>
+<p dir="auto">《银护3》归来，<strong>2023 年的第 3 部漫威电影</strong>，<strong>近几年最好看的一部漫威电影</strong>。</p>
+</blockquote>
+<h1 dir="auto">评分</h1>
+<p dir="auto"><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji></p>
+<h1 dir="auto">感受</h1>
+<p dir="auto">之前因为各种奇怪的剧透导致，这部片是除了《复联3/4》看的过程中最紧张的。</p>
+<p dir="auto">整个观影下来，几乎全程无垃圾时间，有笑有泪，银河搞笑天团以一种可以接受的方式（暂时）落下帷幕。</p>
+<p dir="auto">在漫威体系中一个体面且合理的谢幕并不是那么困难，是不？（是的，我说美队和钢罐... 长点心吧  <g-emoji class="g-emoji" alias="imp" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47f.png">👿</g-emoji></p>
+<p dir="auto">滚导的电影非常有他自己的风格，上次看《银护2》竟然是六年前的事情了，完全没想到，因为记忆犹新。</p>
+<p dir="auto">漫威的很多电影其实都是「预告片」，再加上成熟的漫威风格，所以一旦看的太多，就会出现观影疲劳，这也是《复联3/4》之后 n 部电影叫座不叫好的根本原因。</p>
+<p dir="auto">就像是爆米花流水线出厂的一样，在哪里有笑点，在哪里有泪点，然后「大团圆」结局，绝对让你看到 High，但除了 High 和片尾的彩蛋以外，很难有更多共鸣。</p>
+<p dir="auto">但滚导用《银护3》告诉我们，拒绝「预告片」让 Kang 暂时歇歇吧，我就说《银护3》的故事，其他都靠边。</p>
+<p dir="auto">所以，才有 8.6 分的高分（截至到5月6日19点）。</p>
+<p dir="auto">而滚导也通过《银护3》告诉我们，不那么「漫威」后才可以更纯粹的「漫威」。</p>
+<p dir="auto">PS：小动物爱好者需要谨慎观影。<g-emoji class="g-emoji" alias="sob" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f62d.png">😭</g-emoji></p>
+<h1 dir="auto">聊聊反派</h1>
+<p dir="auto">漫威的反派除了紫薯精和洛基（还被洗白白）塑造非常成功外，大部分反派都是一次性反派，都是为了推动剧情发展而设置的，也就是非常脸谱化。</p>
+<p dir="auto">但《银护3》的反派「很有意思」，从我的观影角度来说，他是最差劲的一个：</p>
+<ul dir="auto">
+<li>智商：不如火箭（否则也没有本片了），而火箭的智商应该不如铁罐（无论是电影还是漫画均如此）。</li>
+<li>战斗力：本身就没有啥战斗力，片头虽然（用重力）碾压亚当（我认为完全是为了剧情需要...），最后被一个重力靴搞定，然后被银河天团爆揍到没有任何还手之力...（要知道同样被碾压的亚当在片头几乎团灭了主角团 <g-emoji class="g-emoji" alias="joy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f602.png">😂</g-emoji></li>
+</ul>
+<p dir="auto">我觉得，斯科特巨大化后一脚就能解决...</p>]]></description>
+            <link>https://kenshin.wang/blog/#/posts/33</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/33</guid>
+            <dc:creator><![CDATA[23784148]]></dc:creator>
+            <pubDate>Sat, 06 May 2023 11:35:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[二零二三年五一小长假]]></title>
+            <description><![CDATA[<blockquote>
+<p dir="auto">不知不觉已经很久没有写博客了，疫情结束了，希望重拾写日记的习惯。</p>
+</blockquote>
+<h1 dir="auto">后疫情的第一个长假</h1>
+<p dir="auto">虽然 2022 年底疫情就结束了，但毕竟大部分中国人都先后 <g-emoji class="g-emoji" alias="sheep" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f411.png">🐑</g-emoji> 了，虽然有春节假期，但毕竟很少有人春节出去玩...</p>
+<p dir="auto">所以，理论上，2023年的五一小长假是疫情结束后的第一个较长的假期。</p>
+<h1 dir="auto">难订的车票</h1>
+<p dir="auto">原本计划老婆那边五一怎么都能休息10天左右，但她们学校不靠谱，导致计划泡汤，哪怕是去趟长春，高铁票也几乎买不到。<g-emoji class="g-emoji" alias="sob" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f62d.png">😭</g-emoji></p>
+<p dir="auto">后来无意间得知，很多人都跟我有一样的想法，五一周边游... 所以导致高铁 3 个小时左右车程的票，一票难求！</p>
+<h1 dir="auto">五一（第一天）</h1>
+<p dir="auto">开车拉着全家去横道吃农家乐，这是疫情以来第一次开车去周边，因为前几天一直在 <g-emoji class="g-emoji" alias="umbrella" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2614.png">☔️</g-emoji> 本来想放弃这个方案，但无奈天气实在太好了。</p>
+<p dir="auto">先去了车库给电瓶充电（好久没开了... <g-emoji class="g-emoji" alias="joy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f602.png">😂</g-emoji>），然后原计划在车库旁边的咖啡厅坐一会，结果人家没开门，把原计划全部都打乱了，所以想在周边溜达溜达，但风太大了，再加上我发现家附件的瑞幸可以点茶咖（据说一杯难求？），所以只能选用 B 方案，去更远的瑞幸...</p>
+<p dir="auto">瑞幸对我来说，除了加浓美式以外，其余的都太寡淡了，实在是不对胃口。</p>
+<p dir="auto">市里感觉并不太堵，但到了横道附近发现傻 B了，高速堵车... <g-emoji class="g-emoji" alias="cry" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png">😢</g-emoji> （更不好的消息是：第二天人就不堵车了，下午也不堵车，仅仅只是中午堵车）</p>
+<p dir="auto">感觉整个城市的人都去往东北虎林园。虽然跟他们不同路，但毕竟高速出口只有一个...</p>
+<p dir="auto">堵了半个多小时终于到地方了，随便找个地方停车，但饭店爆满！爆满！爆满！<g-emoji class="g-emoji" alias="sob" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f62d.png">😭</g-emoji> 还好找到了一家隔壁的饭店，没有那么多人。很难理解，几乎同样的菜，为什么差距那么大。</p>
+<p dir="auto">距离上次来这里吃饭，至少是三年前的事情了，疫情耽误了太多的事情，尤其是生活，被弄的七零八碎。</p>
+<h1 dir="auto">五一（第二天）</h1>
+<p dir="auto">今天是家庭活动日，老规矩去江南（或者去师院吃鸡块，但因为修道，并不是太好走），走之前问了下风力，发现是 4 ~ 5 级西北风，所以还是没敢走东四江桥，直接走的西三江桥。</p>
+<p dir="auto">江北堤坝这边全都是人！全都是人！全都是人！结果到了江南（堤坝）后，几乎没有任何人，虽然江南发展了很多年，人气依然不行，所以各个方面都不行。</p>
+<p dir="auto">最终目的地到了甜甜...的大通冰室。因为每次去甜甜都要在它家吃点东西，因为天热，破天荒的点了被港式咖啡，味道竟然还说的过去。</p>
+<h1 dir="auto">五一（第三天）</h1>
+<p dir="auto">今天大扫除，主要是整理旧衣服，现在收旧衣服是1公斤/0.5元... 我记得疫情前肯定是按件收取价格的。</p>
+<p dir="auto">我其实没有丢弃用过东西的习惯，但无奈衣服会越来越多，毕竟旧衣服几乎没有穿的场合了，再加上现在是专业回收，也许旧衣服会有它存在的价值，所以决定整理旧衣服了。</p>
+<p dir="auto">整理旧衣服的时候发现几条裤子，老婆说穿不下去了，但我还是试了试，答案是：「可以穿进去」，看来我也没胖太多。<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p>
+<p dir="auto">还发现一件旧衣服是老爸去学校看我的时候买的，好贵 1K+，放在现在怎么等价也小 10K 了，没舍得回收，就留下来了。</p>
+<p dir="auto">整理完了后，一共：</p>
+<ul dir="auto">
+<li>旧书：7 公斤</li>
+<li>旧衣服：34 公斤</li>
+</ul>
+<p dir="auto">用的是支付宝里面的 <a href="https://www.fmy90.com/" rel="nofollow">飞蚂蚁</a>  ，书走的京东；衣服走的徳邦。京东很快就上门了，徳邦差不多隔了 3 个小时才收走，而且还没有打包的，分了两批次邮走，第二次还得在支付宝下单。</p>
+<p dir="auto">从服务上来说，京东秒杀徳邦，所以有的时候公司做大了，是有做大的道理。</p>
+<p dir="auto">我感觉目前来说服务和效率最高的还是顺丰，其次是京东，然后是那些普通快递。</p>]]></description>
+            <link>https://kenshin.wang/blog/#/posts/32</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/32</guid>
+            <dc:creator><![CDATA[23784148]]></dc:creator>
+            <pubDate>Thu, 04 May 2023 11:31:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[简悦春季特价，暨少数派九周年]]></title>
+            <description><![CDATA[<p dir="auto"><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>  <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>   <strong>简悦 · 高级账户特价活动</strong>  <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>  <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji></p>
+<p dir="auto"><a href="https://imgtu.com/i/6G2p8S" rel="nofollow"><img src="https://camo.githubusercontent.com/0830bfdbb04e3119d3170d6efdb453a1ea3bfdbcd4a7b4cba837355759bab88e/68747470733a2f2f73332e617831782e636f6d2f323032312f30332f31302f3647327038532e706e67" alt="6G2p8S.png" data-canonical-src="https://s3.ax1x.com/2021/03/10/6G2p8S.png" style="max-width: 100%;"></a></p>
+<hr>
+<blockquote>
+<p dir="auto">由于 <a href="http://sspai.com/" rel="nofollow">@少数派</a> 给予了简悦很多帮助，所以在【少数派九周年庆典】之际简悦也凑个热闹，氛围组走起~</p>
+</blockquote>
+<hr>
+<p dir="auto">今年是第一次活动，错过去年特价的用户，可以出手了。<br>
+即便之后再有特价，价格方面也肯定 &gt;= 此次特价活动。</p>
+<ul dir="auto">
+<li>时间：<strong>截至到 2021年3月23日</strong></li>
+<li>特价：<strong>14 元</strong></li>
+</ul>
+<p dir="auto">少数派购买链接 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://sspai.com/item/186" rel="nofollow">https://sspai.com/item/186</a><br>
+支付宝直接付款链接 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://wj.qq.com/s2/6918802/ffc8/" rel="nofollow">https://wj.qq.com/s2/6918802/ffc8/</a><br>
+更多购买方式 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://simpread.pro/price.html" rel="nofollow">https://simpread.pro/price.html</a></p>
+<hr>
+<p dir="auto">如果对简悦不了解的朋友，用一句话形容简悦：<strong>阅读模式 + 导出 + 标注 + 稍后读</strong></p>
+<p dir="auto">简悦的宗旨：为浏览器提供 <strong>「如杂志般沉浸式阅读体验」</strong> 。</p>
+<p dir="auto">关于 简悦 2.0 的介绍请看这里 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://sspai.com/post/61996" rel="nofollow">https://sspai.com/post/61996</a></p>
+<p dir="auto">简悦官网 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://simpread.pro/" rel="nofollow">https://simpread.pro/</a><br>
+Chrome Webstore 下载地址 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://sourl.cn/b9Vsnj" rel="nofollow">https://sourl.cn/b9Vsnj</a><br>
+更多下载地址 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://sourl.cn/ruHSut" rel="nofollow">https://sourl.cn/ruHSut</a><br>
+关于简悦的更多功能介绍可以看 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://sourl.cn/66pBdF" rel="nofollow">https://sourl.cn/66pBdF</a></p>
+<hr>
+<h3 dir="auto">彩蛋</h3>
+<blockquote>
+<p dir="auto">你以为就这样完事了？简悦也顺道一个搞一个回馈用户的活动  <g-emoji class="g-emoji" alias="smirk" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png">😏</g-emoji></p>
+</blockquote>
+<blockquote>
+<p dir="auto">前往 <strong><a href="https://sourl.cn/b9Vsnj" rel="nofollow">Chrome Webstore</a></strong> 或 <strong><a href="https://microsoftedge.microsoft.com/addons/detail/%E7%AE%80%E6%82%A6-simpread/clgdhlhfiocphghdkdbgdlmfaafccfmc" rel="nofollow">Edge 应用商店</a></strong>  并 <strong>五星好评 + 留言</strong>（真实的使用感受或体验）</p>
+</blockquote>
+<p dir="auto"><strong>抽奖时间</strong><br>
+2021年3月9日 ~ 2021年3月23日</p>
+<p dir="auto"><strong>抽奖方法</strong></p>
+<ol dir="auto">
+<li>每八名用户即赠送一个中奖名额（注意：因为上次人数比较多，所以这次改为每八人）</li>
+<li>到截至日后，如不足五名，四舍五入<br>
+（划重点）也就是，每八个人就一定有一人中奖。</li>
+<li>已评论过的用户，请不要重复评价。</li>
+<li><strong>Chrome Webstore</strong> 与 <strong>Edge 应用商店</strong> 分别统计，可同时提交评价。</li>
+</ol>
+<p dir="auto"><strong>如何抽奖</strong><br>
+每八名抽取一次，使用 Math.floor( Math.random() * 8 )，即随机返回 0 ~ 7 的值对应了八个的抽奖用户。</p>
+<p dir="auto"><strong>奖品</strong><br>
+简悦 · 高级账户一枚</p>
+<p dir="auto"><strong>开奖</strong><br>
+请关注 <a href="https://t.me/simpread" rel="nofollow">https://t.me/simpread</a> 我在【2021年3月23日】之后择日公布抽奖结果。</p>]]></description>
+            <link>https://kenshin.wang/blog/#/posts/31</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/31</guid>
+            <dc:creator><![CDATA[23784148]]></dc:creator>
+            <pubDate>Wed, 10 Mar 2021 04:39:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[简悦为什么使用 Revue 作为 Newsletter 的平台]]></title>
+            <description><![CDATA[<p dir="auto"><a href="https://imgchr.com/i/yNZMrQ" rel="nofollow"><img src="https://camo.githubusercontent.com/9aec14ca548e0528b6ee5e48588f715bcf9872402c24caf56a80e63f9129f695/68747470733a2f2f73332e617831782e636f6d2f323032312f30322f30372f794e5a4d72512e706e67" alt="yNZMrQ.png" data-canonical-src="https://s3.ax1x.com/2021/02/07/yNZMrQ.png" style="max-width: 100%;"></a></p>
+<blockquote>
+<p dir="auto">简悦想用 Newsletter 好久了，一直没有适合的平台，今天无意中发现了 <a href="https://link.zhihu.com/?target=https%3A//www.getrevue.co/" rel="nofollow">revue</a> 这是一个被 Twitter 收购的 Newsletter 平台，我准备将 简悦的 Newsletter 放到这里。</p>
+</blockquote>
+<h2 dir="auto">订阅</h2>
+<blockquote>
+<p dir="auto">嗨，如果你喜欢 <a href="https://link.zhihu.com/?target=https%3A//twitter.com/hashtag/%E7%AE%80%E6%82%A6%3Fsrc%3Dhashtag_click" rel="nofollow">#简悦</a> 或 生产力工具 / 工作流 的 Newsletter 爱好者，可以订阅我的这份简报</p>
+</blockquote>
+<p dir="auto"><a href="https://link.zhihu.com/?target=https%3A//www.getrevue.co/profile/kenshin" rel="nofollow">https://www.getrevue.co/profile/kenshinwww.getrevue.co</a></p>
+<h2 dir="auto">负一期</h2>
+<blockquote>
+<p dir="auto">这篇文章是通过此平台撰写的第「负一期」<br>
+至于为什么是负一期，因为本篇文章是 <strong>测试版</strong>，用来测试此平台的效果 <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">😁</g-emoji></p>
+</blockquote>
+<p dir="auto"><a href="https://link.zhihu.com/?target=https%3A//www.getrevue.co/profile/kenshin/issues/weekly-newsletter-of-kenshin-1-353216" rel="nofollow">https://www.getrevue.co/profile/kenshin/issues/weekly-newsletter-of-kenshin-1-353216www.getrevue.co</a></p>
+<hr>
+<blockquote>
+<p dir="auto">以下是 Revue 的一些介绍。</p>
+</blockquote>
+<h2 dir="auto">背景介绍</h2>
+<p dir="auto"><a href="https://link.zhihu.com/?target=https%3A//t.co/trVgZPvOFM%3Famp%3D1" rel="nofollow">https://getrevue.co</a> 是 Twitter 刚刚收购的 Newsletter 平台，我没有用过其它平台，仅聊聊「我为什么使用 Revue 作为 Newsletter 的平台」</p>
+<p dir="auto">在 Twitter 收购 Revue 后，整合 Twitter 到 Revue 中（ 可以使用推的帐号直接登录 Revue） 同时在登录到 Revue 后，你会发现可以在其中嵌入推文 结合 Threaded Twitter 的写作方式，你可以将这些信息方便的「导入到」 Newsletter</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6917702633482a7c658c087bf8a346feb0f8c437337efbf07774e1f07b78b2a0/68747470733a2f2f706963332e7a68696d672e636f6d2f38302f76322d33643666623661613465656239626230373965373262636366663831313563615f373230772e6a7067"><img src="https://camo.githubusercontent.com/6917702633482a7c658c087bf8a346feb0f8c437337efbf07774e1f07b78b2a0/68747470733a2f2f706963332e7a68696d672e636f6d2f38302f76322d33643666623661613465656239626230373965373262636366663831313563615f373230772e6a7067" alt="img" data-canonical-src="https://pic3.zhimg.com/80/v2-3d6fb6aa4eeb9bb079e72bccff8115ca_720w.jpg" style="max-width: 100%;"></a></p>
+<p dir="auto">这还不是唯一导入方式。</p>
+<h2 dir="auto">Revue 还支持多种导入方式</h2>
+<ol dir="auto">
+<li>
+<p dir="auto">常规工具，如： Pocket，Instapaper，Medium 甚至 RSS 也可以</p>
+</li>
+<li>
+<p dir="auto">提供浏览器插件。</p>
+</li>
+<li>
+<p dir="auto">甚至于可以接入 Zapier 平台<a href="https://link.zhihu.com/?target=https%3A//t.co/djIokZhLvB%3Famp%3D1" rel="nofollow">https://getrevue.co/app/integrations/zapier</a></p>
+</li>
+</ol>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1f7f61597484bda5486f5eca37226fa2fa74d236d903baefb7feccefdaac98d8/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d35366366656266386234656464663866346339616337336437393930663266645f373230772e6a7067"><img src="https://camo.githubusercontent.com/1f7f61597484bda5486f5eca37226fa2fa74d236d903baefb7feccefdaac98d8/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d35366366656266386234656464663866346339616337336437393930663266645f373230772e6a7067" alt="img" data-canonical-src="https://pic2.zhimg.com/80/v2-56cfebf8b4eddf8f4c9ac73d7990f2fd_720w.jpg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aec54e84ffc49e91451f6c210beaf497c1c19c9fb39f21c7697b08ca57aa41e6/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d62623666343864663530343464393063363138663562343630323231626135645f373230772e6a7067"><img src="https://camo.githubusercontent.com/aec54e84ffc49e91451f6c210beaf497c1c19c9fb39f21c7697b08ca57aa41e6/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d62623666343864663530343464393063363138663562343630323231626135645f373230772e6a7067" alt="img" data-canonical-src="https://pic2.zhimg.com/80/v2-bb6f48df5044d90c618f5b460221ba5d_720w.jpg" style="max-width: 100%;"></a></p>
+<p dir="auto">通过（上面）这些功能，你可以将发到推或 Pocket / Medium 之类的内容方便的通过拖拽即可生成一篇 Newsletter 本篇文章 <a href="https://link.zhihu.com/?target=https%3A//t.co/X2i7R9USed%3Famp%3D1" rel="nofollow">https://getrevue.co/profile/kenshin/issues/weekly-newsletter-of-kenshin-1-353216…</a> 就是通过此产生的。</p>
+<p dir="auto">从构思到完成，花费我不一个小时的时间。（包括第一次使用时的入门时间，如果单说内容时间，绝对不超过二十分钟）</p>
+<h2 dir="auto">再谈谈编辑环境</h2>
+<p dir="auto">除了上面说的拖拽方案外，还支持类似 Medium 的写作方案，包括：拖拽排序，图文混排，提供 H1 文本 超链接以及文字内样式。 同时支持一定程度的「带有样式的粘贴」方式。</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9889daca8ff291754bd7d1384e94db5dae22a559cae08d28c698305f5c0ee74b/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d37633238306538323839653661646535666233386539623032303639363965395f373230772e6a7067"><img src="https://camo.githubusercontent.com/9889daca8ff291754bd7d1384e94db5dae22a559cae08d28c698305f5c0ee74b/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d37633238306538323839653661646535666233386539623032303639363965395f373230772e6a7067" alt="img" data-canonical-src="https://pic2.zhimg.com/80/v2-7c280e8289e6ade5fb38e9b0206969e9_720w.jpg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cbe3db5ca1c2793366b2d7b0f09d01bee3da9658b6ae03e6f385a7d8695a2553/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d33633761633663653332623336336465633932663238306236666264333037315f373230772e6a7067"><img src="https://camo.githubusercontent.com/cbe3db5ca1c2793366b2d7b0f09d01bee3da9658b6ae03e6f385a7d8695a2553/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d33633761633663653332623336336465633932663238306236666264333037315f373230772e6a7067" alt="img" data-canonical-src="https://pic2.zhimg.com/80/v2-3c7ac6ce32b363dec92f280b6fbd3071_720w.jpg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/afee855a56cc3deeb0aba2669e7e6fec53c0e13e12f8eb9a424866f7ce62758d/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d32343133366532343134333235306262373964343032643564376134346537395f373230772e6a7067"><img src="https://camo.githubusercontent.com/afee855a56cc3deeb0aba2669e7e6fec53c0e13e12f8eb9a424866f7ce62758d/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d32343133366532343134333235306262373964343032643564376134346537395f373230772e6a7067" alt="img" data-canonical-src="https://pic2.zhimg.com/80/v2-24136e24143250bb79d402d5d7a44e79_720w.jpg" style="max-width: 100%;"></a></p>
+<h2 dir="auto">订阅的渠道</h2>
+<p dir="auto">基本上涵盖了常见的场景，如 Import from Mailchimp， Import from file 等方式。</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d24a40a25c043ef32cd2163d334db403a536883cf2641e0a79bbc81a61d3e0df/68747470733a2f2f706963332e7a68696d672e636f6d2f38302f76322d66363262343433376533316432396233626136313561616431393366373539615f373230772e6a7067"><img src="https://camo.githubusercontent.com/d24a40a25c043ef32cd2163d334db403a536883cf2641e0a79bbc81a61d3e0df/68747470733a2f2f706963332e7a68696d672e636f6d2f38302f76322d66363262343433376533316432396233626136313561616431393366373539615f373230772e6a7067" alt="img" data-canonical-src="https://pic3.zhimg.com/80/v2-f62b4437e31d29b3ba615aad193f759a_720w.jpg" style="max-width: 100%;"></a></p>
+<h2 dir="auto">支持 API</h2>
+<p dir="auto"><a href="https://link.zhihu.com/?target=https%3A//t.co/Z1cVKz8e1g%3Famp%3D1" rel="nofollow">https://getrevue.co/api</a> 包含常见的一些使用场景，如果有编程能力的话，很容易将 Revue 嵌入到你的程序中。</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1468806d7ce18ac8fc297e82fde39b77a9add058f1b2934c40dc74c032635ddc/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d39613261383338633638366338336537626431363262626265343965366463395f373230772e6a7067"><img src="https://camo.githubusercontent.com/1468806d7ce18ac8fc297e82fde39b77a9add058f1b2934c40dc74c032635ddc/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d39613261383338633638366338336537626431363262626265343965366463395f373230772e6a7067" alt="img" data-canonical-src="https://pic2.zhimg.com/80/v2-9a2a838c686c83e7bd162bbbe49e6dc9_720w.jpg" style="max-width: 100%;"></a></p>
+<hr>
+<blockquote>
+<p dir="auto">以上就是关于 Revue 的一些简单介绍，希望你能喜欢。 <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">😁</g-emoji></p>
+</blockquote>]]></description>
+            <link>https://kenshin.wang/blog/#/posts/30</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/30</guid>
+            <dc:creator><![CDATA[23784148]]></dc:creator>
+            <pubDate>Sun, 07 Feb 2021 08:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[简悦 · Newsletter]]></title>
+            <description><![CDATA[<p dir="auto"><a href="https://imgchr.com/i/yNZMrQ" rel="nofollow"><img src="https://camo.githubusercontent.com/9aec14ca548e0528b6ee5e48588f715bcf9872402c24caf56a80e63f9129f695/68747470733a2f2f73332e617831782e636f6d2f323032312f30322f30372f794e5a4d72512e706e67" alt="yNZMrQ.png" data-canonical-src="https://s3.ax1x.com/2021/02/07/yNZMrQ.png" style="max-width: 100%;"></a></p>
+<h2 dir="auto">简悦 · Newsletter</h2>
+<blockquote>
+<p dir="auto">想做 Newsletter 好久了，一直没有适合的平台，今天无意中发现了 <a href="https://www.getrevue.co/" rel="nofollow">revue</a> 这是一个被 Twitter 收购的 Newsletter 平台，我准备将 <strong>简悦的 Newsletter</strong> 放到这里。</p>
+</blockquote>
+<h4 dir="auto">订阅</h4>
+<p dir="auto"><a href="https://www.getrevue.co/profile/kenshin" rel="nofollow">https://www.getrevue.co/profile/kenshin</a></p>
+<h4 dir="auto">Newsletter 的内容</h4>
+<blockquote>
+<p dir="auto">包括：<strong>简悦的新功能，技巧，入门性文章</strong> 以及有关 <strong>生产力工具 / 工作流</strong> 的一些内容。</p>
+</blockquote>
+<h4 dir="auto">Revue 的介绍</h4>
+<ul dir="auto">
+<li><a href="https://zhuanlan.zhihu.com/p/349855393" rel="nofollow">https://zhuanlan.zhihu.com/p/349855393</a></li>
+<li><a href="https://twitter.com/wanglei001/status/1358322013492948992" rel="nofollow">https://twitter.com/wanglei001/status/1358322013492948992</a></li>
+<li><a href="https://threadreaderapp.com/thread/1358322013492948992.html" rel="nofollow">https://threadreaderapp.com/thread/1358322013492948992.html</a></li>
+</ul>
+<h2 dir="auto">近期一些技巧汇总</h2>
+<ol dir="auto">
+<li>
+<p dir="auto">如何利用简悦 · 同步助手快速回源原页面的任意位置 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://github.com/Kenshin/simpread/discussions/1720">https://github.com/Kenshin/simpread/discussions/1720</a><br>
+来自社区用户 <a href="https://t.me/BONABC" rel="nofollow">@BONABC</a> 的技巧</p>
+</li>
+<li>
+<p dir="auto">在 Mac 端导出 PDF 出现二次编辑错位情况的解决方案（Windows 用户无此问题） <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://github.com/Kenshin/simpread/discussions/1772">https://github.com/Kenshin/simpread/discussions/1772</a></p>
+</li>
+<li>
+<p dir="auto">关于 Notion 无法授权或导入空文件等问题的集中说明（附解决方案） <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://github.com/Kenshin/simpread/discussions/1773">https://github.com/Kenshin/simpread/discussions/1773</a></p>
+</li>
+<li>
+<p dir="auto">一定要小心「数据孤岛」,一旦形成后就没法迁移 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://zhuanlan.zhihu.com/p/348520757" rel="nofollow">https://zhuanlan.zhihu.com/p/348520757</a></p>
+</li>
+<li>
+<p dir="auto">如何在稍后读内置的阅读模式中导出含有标注的全文（仅限 HTML） <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://github.com/Kenshin/simpread/discussions/1712">https://github.com/Kenshin/simpread/discussions/1712</a></p>
+</li>
+</ol>
+<blockquote>
+<p dir="auto">我会在每周发一个【简悦技巧汇总】，如果你也喜欢订阅 RSS 的话，订阅地址 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://rss.simpread.pro/feed" rel="nofollow">https://rss.simpread.pro/feed</a> 以及其它简悦的 RSS 订阅源 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://simpread.pro/subscribe" rel="nofollow">https://simpread.pro/subscribe</a></p>
+</blockquote>
+<h2 dir="auto">Clubhouse</h2>
+<blockquote>
+<p dir="auto">近期大火的 Clubhouse，我（ Kenshin ）也掺和了下，如果你也有 ch 帐号的话，欢迎 fo 我<br>
+我在 Cloubhouse ID <strong><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/wanglei001/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/wanglei001">@wanglei001</a></strong></p>
+</blockquote>
+<blockquote>
+<p dir="auto">至于我会在 Cloubhouse 上面干什么？目前的初步想法是新版本发布后的一些功能说明，或许会放到它的上面。</p>
+</blockquote>]]></description>
+            <link>https://kenshin.wang/blog/#/posts/29</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/29</guid>
+            <dc:creator><![CDATA[23784148]]></dc:creator>
+            <pubDate>Sun, 07 Feb 2021 08:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[若干个简悦的 RSS 订阅源]]></title>
+            <description><![CDATA[<p dir="auto"><a href="https://imgchr.com/i/s8VkLj" rel="nofollow"><img src="https://camo.githubusercontent.com/73811a5130e47d0273ec01dd9c950065b60b8d4494e7722c530ab2645fa9b784/68747470733a2f2f73332e617831782e636f6d2f323032312f30312f31312f7338566b4c6a2e706e67" alt="s8VkLj.png" data-canonical-src="https://s3.ax1x.com/2021/01/11/s8VkLj.png" style="max-width: 100%;"></a></p>
+<blockquote>
+<p dir="auto">为方便简悦的用户，现在发布几个简悦的 RSS 订阅源。</p>
+</blockquote>
+<ol dir="auto">
+<li>
+<p dir="auto"><a href="https://rss.simpread.pro/feed" rel="nofollow">https://rss.simpread.pro/feed</a> → 基本上涵盖了简悦的文章/技巧/玩法/入门/动态/版本更新等内容（<strong>更新频率高，建议订阅</strong>）</p>
+</li>
+<li>
+<p dir="auto"><a href="https://rss.simpread.pro/changelog" rel="nofollow">https://rss.simpread.pro/changelog</a> → 更新日志（当有新版本时会更新此 RSS）</p>
+</li>
+<li>
+<p dir="auto"><a href="https://rss.simpread.pro/notice" rel="nofollow">https://rss.simpread.pro/notice</a> → 消息中心（内容来自选项页 → 右下角的消息中心）</p>
+</li>
+<li>
+<p dir="auto"><a href="https://rss.simpread.pro/plugins" rel="nofollow">https://rss.simpread.pro/plugins</a> → 插件介绍（来自插件中心的各个插件的功能介绍）</p>
+</li>
+<li>
+<p dir="auto"><a href="https://rss.simpread.pro/features" rel="nofollow">https://rss.simpread.pro/features</a> → 详细功能说明（简悦每个版本都会有详细的功能说明，有更新时会更新此 RSS）</p>
+</li>
+</ol>
+<p dir="auto">另外，上述内容都可以在简悦 · 订阅中心查看 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://simpread.pro/subscribe" rel="nofollow">https://simpread.pro/subscribe</a> 未来会增加更多的可以订阅的资源。</p>
+<p dir="auto">备注：2 ~3 订阅源来自社区的 <a href="https://t.me/ZyTomorrow" rel="nofollow">@ZyTomorrow</a> <g-emoji class="g-emoji" alias="pray" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png">🙏</g-emoji></p>]]></description>
+            <link>https://kenshin.wang/blog/#/posts/28</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/28</guid>
+            <dc:creator><![CDATA[23784148]]></dc:creator>
+            <pubDate>Thu, 14 Jan 2021 03:22:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[什么时候需要使用简悦 · 同步助手]]></title>
+            <description><![CDATA[<blockquote>
+<p dir="auto">如果你经常遇到以下的提示</p>
+</blockquote>
+<p dir="auto"><a href="https://imgchr.com/i/stqZ3n" rel="nofollow"><img src="https://camo.githubusercontent.com/c65db458cb914565010aea582073168c49724c598f25a6ef2d550f70c91c09be/68747470733a2f2f73332e617831782e636f6d2f323032312f30312f31332f7374715a336e2e706e67" alt="stqZ3n.png" data-canonical-src="https://s3.ax1x.com/2021/01/13/stqZ3n.png" style="max-width: 100%;"></a></p>
+<p dir="auto">这是因为你没有启动简悦 · 同步助手，也或许对它并不是太了解，希望本文能解决你的一些疑问。</p>
+<h2 dir="auto">同步助手是什么？</h2>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync" rel="nofollow"><strong>同步助手</strong></a> 是随着简悦 2.1 版本发布的一个 <strong>桌面 App</strong></p>
+<p dir="auto"><strong>它有两部分构成：</strong></p>
+<ol dir="auto">
+<li>桌面 App <code class="notranslate">.app</code> or <code class="notranslate">.exe</code> 文件</li>
+</ol>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bf5427cfb230bd13e9acf0ac1a84ad2ced027197dd2d8e462cf8f35d097da0ad/68747470733a2f2f73312e617831782e636f6d2f323032302f31312f31312f4258345379562e6d642e706e67"><img src="https://camo.githubusercontent.com/bf5427cfb230bd13e9acf0ac1a84ad2ced027197dd2d8e462cf8f35d097da0ad/68747470733a2f2f73312e617831782e636f6d2f323032302f31312f31312f4258345379562e6d642e706e67" alt="" data-canonical-src="https://s1.ax1x.com/2020/11/11/BX4SyV.md.png" style="max-width: 100%;"></a></p>
+<ol start="2" dir="auto">
+<li>扩展端 → 选项页 → 共通 → 同步助手</li>
+</ol>
+<p dir="auto"><a href="https://imgchr.com/i/stqJ3R" rel="nofollow"><img src="https://camo.githubusercontent.com/3c287606ec50e8fa4041b4aae93aee0b6303f240cda05b553f41f4a9fcf22e97/68747470733a2f2f73332e617831782e636f6d2f323032312f30312f31332f7374714a33522e706e67" alt="stqJ3R.png" data-canonical-src="https://s3.ax1x.com/2021/01/13/stqJ3R.png" style="max-width: 100%;"></a></p>
+<h2 dir="auto">为什么要有同步助手？</h2>
+<p dir="auto">Chrome 扩展功能受限，所以没有办法做太多事情，如： <strong>保存文件到本地任意位置</strong>，<strong>启动服务</strong> 等。</p>
+<p dir="auto">所以有了同步助手，算做是扩展端在功能上的补充。</p>
+<h2 dir="auto">同步助手能做什么？</h2>
+<p dir="auto">它最主要一个功能：<a href="http://ksria.com/simpread/docs/#/%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5" rel="nofollow">自动同步</a> ，使用此功能后，<strong>可以将原本保存到 Chrome 沙箱内部的数据实时保存到本地的任意位置</strong>。</p>
+<p dir="auto">除此以外，还有包括下面的功能：</p>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5" rel="nofollow">自动同步</a></p>
+</li>
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=%E5%86%85%E7%BD%AE%E8%A7%A3%E6%9E%90" rel="nofollow">内置解析</a></p>
+</li>
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=%E5%AF%BC%E5%87%BA%E6%9C%8D%E5%8A%A1" rel="nofollow">导出服务</a></p>
+</li>
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=PDF" rel="nofollow">PDF</a></p>
+</li>
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=Epub" rel="nofollow">Epub</a></p>
+</li>
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=pandoc" rel="nofollow">pandoc</a></p>
+</li>
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=Hypothesis" rel="nofollow">Hypothesis</a></p>
+</li>
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=Readwise" rel="nofollow">Readwise.io</a></p>
+</li>
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=%E9%82%AE%E4%BB%B6%E6%9C%8D%E5%8A%A1" rel="nofollow">邮件服务</a></p>
+</li>
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=%E5%8F%91%E9%80%81%E5%88%B0Kindle" rel="nofollow">发送到Kindle</a></p>
+</li>
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=%E7%B3%BB%E7%BB%9F%E7%BA%A7%E5%BF%AB%E6%8D%B7%E9%94%AE" rel="nofollow">系统级快捷键</a></p>
+</li>
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=%E6%89%93%E5%BC%80%E7%A8%8D%E5%90%8E%E8%AF%BB" rel="nofollow">打开稍后读</a></p>
+</li>
+<li>
+<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=Bookmarklet" rel="nofollow">Bookmarklet</a></p>
+</li>
+</ul>
+<blockquote>
+<p dir="auto">如果你对上述内容并不感兴趣的话，请不要开启此功能，如何关闭请看这里 <a href="https://github.com/Kenshin/simpread/discussions/1692">https://github.com/Kenshin/simpread/discussions/1692</a></p>
+</blockquote>
+<h2 dir="auto">自动同步的意义</h2>
+<blockquote>
+<p dir="auto">当通过此功能可以把简悦的配置文件（内含稍后读数据）保存到本地的任意位置后，就可以利用网盘实现全网同步功能。</p>
+</blockquote>
+<p dir="auto">所以，当你没有 <strong>使用网盘同步的需求，则不要开启自动同步功能</strong>，请不要开启此功能，如何关闭请看这里 <a href="https://github.com/Kenshin/simpread/discussions/1692">https://github.com/Kenshin/simpread/discussions/1692</a></p>
+<p dir="auto">但 <strong>关闭自动同步功能并不影响使用同步助手的其它功能</strong>，如：<a href="http://ksria.com/simpread/docs/#/Sync?id=Bookmarklet" rel="nofollow">Bookmarklet</a> <a href="http://ksria.com/simpread/docs/#/Sync?id=%E9%82%AE%E4%BB%B6%E6%9C%8D%E5%8A%A1" rel="nofollow">邮件服务</a> 等。</p>
+<h2 dir="auto">自动同步与非自动同步（原有方案）区别</h2>
+<ul dir="auto">
+<li>
+<p dir="auto">前者会把数据保存到本地（借助同步助手）</p>
+</li>
+<li>
+<p dir="auto">后者会把数据保存到 Chrome 内部</p>
+</li>
+</ul>
+<p dir="auto">开启 <strong>自动同步</strong> 后，<strong>同步助手负责读取/保存数据</strong>，简悦负责阅读模式或发送稍后读。（所以需要同步助手一直在运行）</p>]]></description>
+            <link>https://kenshin.wang/blog/#/posts/27</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/27</guid>
+            <dc:creator><![CDATA[23784148]]></dc:creator>
+            <pubDate>Thu, 14 Jan 2021 03:19:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[简悦为什么不需要登录系统]]></title>
+            <description><![CDATA[<p dir="auto"><a href="https://imgchr.com/i/stoRzV" rel="nofollow"><img src="https://camo.githubusercontent.com/f548e0b2fecdf8023e32f7df1c0e7cc0b3cde7b0dd661a6143cf4b130517844d/68747470733a2f2f73332e617831782e636f6d2f323032312f30312f31332f73746f527a562e706e67" alt="stoRzV.png" data-canonical-src="https://s3.ax1x.com/2021/01/13/stoRzV.png" style="max-width: 100%;"></a></p>
+<p dir="auto">简悦从 1.0 开始一直到现在都没有登录系统，尤其是 2.0 开始的高级账户系统后让一些想当然拿来就用的用户有些感觉奇怪。</p>
+<p dir="auto">所以聊聊：<strong>简悦为什么不需要登录系统</strong></p>
+<blockquote>
+<p dir="auto">登录系统简单的说就是一个：凭证系统。</p>
+</blockquote>
+<p dir="auto">举个例子：用户在银行存了<g-emoji class="g-emoji" alias="moneybag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b0.png">💰</g-emoji> ，去银行取时会提供密码，银行凭密码就会把用户的<g-emoji class="g-emoji" alias="moneybag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b0.png">💰</g-emoji> 给用户。</p>
+<p dir="auto">登录系统也是如此：用户在某个 App 存了数据，凭借密码就能取到这些数据。</p>
+<p dir="auto">用户在简悦产生的数据（稍后读）都放在用户处，简悦并没有保存用户的任何数据，所以：</p>
+<ol dir="auto">
+<li>
+<p dir="auto">真正意义上让用户掌握自己的数据（哪怕是离线数据也是如此）</p>
+</li>
+<li>
+<p dir="auto">自然不需要使用凭证（登录系统）来拿自己的数据了。</p>
+</li>
+</ol>
+<p dir="auto"><strong>再引申说下第一点的好处：</strong></p>
+<p dir="auto">很多具有离线功能的 App，离线保存也都是从 A处 → B处，并没有真正把数据放在用户自己的地方。</p>
+<p dir="auto">（这里不讨论其它 App 的做法是否正确，每个产品都有其自己的设计哲学）</p>
+<hr>
+<p dir="auto">这个（没有登录系统）做法也并不是那么完美，因为简悦没有托管用户的数据，所以在很多事情上并不能像其它 App 一样做更多。</p>
+<blockquote>
+<p dir="auto">所以简悦 2.1 做了一个尝试：<a href="http://ksria.com/simpread/docs/#/%E6%8E%88%E6%9D%83%E7%99%BB%E5%BD%95" rel="nofollow">授权登录</a>。</p>
+</blockquote>
+<p dir="auto">让用户通过某些方式将凭证托管给简悦，这样简悦就能帮用户做更多的事情。</p>
+<p dir="auto">既然这样的话，授权登录与密码登录不是一样的吗？<strong>其实不一样。</strong></p>
+<ol dir="auto">
+<li>
+<p dir="auto">授权登录相当于用户临时生成一个密码（ 通过 Token 或 WebDAV）</p>
+</li>
+<li>
+<p dir="auto">用户可以随时取消这个临时密码。</p>
+</li>
+</ol>
+<blockquote>
+<p dir="auto">类似智能门锁的临时密码概念。（用户可以随时取消这个临时密码）</p>
+</blockquote>
+<p dir="auto">而登录系统的话，无论如何都需要有一个密码，除非删除整个用户环境才能彻底无法访问数据。</p>
+<hr>
+<p dir="auto"><strong>后续：</strong></p>
+<ol dir="auto">
+<li>此文章是通过 <a href="https://typefully.app/" rel="nofollow">https://typefully.app/</a> 并发在了 <a href="https://twitter.com/wanglei001/status/1349206082661412870" rel="nofollow">推上</a>。</li>
+<li>同时此文章也会实时同步到 <a href="https://threadreaderapp.com/thread/1349202560972972040.html" rel="nofollow">https://threadreaderapp.com/thread/1349202560972972040.html</a></li>
+<li>也请关注我在 <a href="https://threadreaderapp.com/user/wanglei001" rel="nofollow">Threaded App 的帐号</a></li>
+</ol>]]></description>
+            <link>https://kenshin.wang/blog/#/posts/26</link>
+            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/26</guid>
+            <dc:creator><![CDATA[23784148]]></dc:creator>
+            <pubDate>Thu, 14 Jan 2021 03:09:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[使用简悦 + 简悦 · 同步助手 + Obsidian 打造一站式知识管理方案]]></title>
             <description><![CDATA[<p dir="auto"><a href="https://imgchr.com/i/rHjKd1" rel="nofollow"><img src="https://camo.githubusercontent.com/c4549bc24b2f5d97007f0a495fc1c65c4b74c662d3aa47ec6cdb4a94f8a9a73e/68747470733a2f2f73332e617831782e636f6d2f323032302f31322f32392f72486a4b64312e706e67" alt="rHjKd1.png" data-canonical-src="https://s3.ax1x.com/2020/12/29/rHjKd1.png" style="max-width: 100%;"></a></p>
@@ -118,422 +543,7 @@
             <link>https://kenshin.wang/blog/#/posts/25</link>
             <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/25</guid>
             <dc:creator><![CDATA[23784148]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[简悦为什么不需要登录系统]]></title>
-            <description><![CDATA[<p dir="auto"><a href="https://imgchr.com/i/stoRzV" rel="nofollow"><img src="https://camo.githubusercontent.com/f548e0b2fecdf8023e32f7df1c0e7cc0b3cde7b0dd661a6143cf4b130517844d/68747470733a2f2f73332e617831782e636f6d2f323032312f30312f31332f73746f527a562e706e67" alt="stoRzV.png" data-canonical-src="https://s3.ax1x.com/2021/01/13/stoRzV.png" style="max-width: 100%;"></a></p>
-<p dir="auto">简悦从 1.0 开始一直到现在都没有登录系统，尤其是 2.0 开始的高级账户系统后让一些想当然拿来就用的用户有些感觉奇怪。</p>
-<p dir="auto">所以聊聊：<strong>简悦为什么不需要登录系统</strong></p>
-<blockquote>
-<p dir="auto">登录系统简单的说就是一个：凭证系统。</p>
-</blockquote>
-<p dir="auto">举个例子：用户在银行存了<g-emoji class="g-emoji" alias="moneybag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b0.png">💰</g-emoji> ，去银行取时会提供密码，银行凭密码就会把用户的<g-emoji class="g-emoji" alias="moneybag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b0.png">💰</g-emoji> 给用户。</p>
-<p dir="auto">登录系统也是如此：用户在某个 App 存了数据，凭借密码就能取到这些数据。</p>
-<p dir="auto">用户在简悦产生的数据（稍后读）都放在用户处，简悦并没有保存用户的任何数据，所以：</p>
-<ol dir="auto">
-<li>
-<p dir="auto">真正意义上让用户掌握自己的数据（哪怕是离线数据也是如此）</p>
-</li>
-<li>
-<p dir="auto">自然不需要使用凭证（登录系统）来拿自己的数据了。</p>
-</li>
-</ol>
-<p dir="auto"><strong>再引申说下第一点的好处：</strong></p>
-<p dir="auto">很多具有离线功能的 App，离线保存也都是从 A处 → B处，并没有真正把数据放在用户自己的地方。</p>
-<p dir="auto">（这里不讨论其它 App 的做法是否正确，每个产品都有其自己的设计哲学）</p>
-<hr>
-<p dir="auto">这个（没有登录系统）做法也并不是那么完美，因为简悦没有托管用户的数据，所以在很多事情上并不能像其它 App 一样做更多。</p>
-<blockquote>
-<p dir="auto">所以简悦 2.1 做了一个尝试：<a href="http://ksria.com/simpread/docs/#/%E6%8E%88%E6%9D%83%E7%99%BB%E5%BD%95" rel="nofollow">授权登录</a>。</p>
-</blockquote>
-<p dir="auto">让用户通过某些方式将凭证托管给简悦，这样简悦就能帮用户做更多的事情。</p>
-<p dir="auto">既然这样的话，授权登录与密码登录不是一样的吗？<strong>其实不一样。</strong></p>
-<ol dir="auto">
-<li>
-<p dir="auto">授权登录相当于用户临时生成一个密码（ 通过 Token 或 WebDAV）</p>
-</li>
-<li>
-<p dir="auto">用户可以随时取消这个临时密码。</p>
-</li>
-</ol>
-<blockquote>
-<p dir="auto">类似智能门锁的临时密码概念。（用户可以随时取消这个临时密码）</p>
-</blockquote>
-<p dir="auto">而登录系统的话，无论如何都需要有一个密码，除非删除整个用户环境才能彻底无法访问数据。</p>
-<hr>
-<p dir="auto"><strong>后续：</strong></p>
-<ol dir="auto">
-<li>此文章是通过 <a href="https://typefully.app/" rel="nofollow">https://typefully.app/</a> 并发在了 <a href="https://twitter.com/wanglei001/status/1349206082661412870" rel="nofollow">推上</a>。</li>
-<li>同时此文章也会实时同步到 <a href="https://threadreaderapp.com/thread/1349202560972972040.html" rel="nofollow">https://threadreaderapp.com/thread/1349202560972972040.html</a></li>
-<li>也请关注我在 <a href="https://threadreaderapp.com/user/wanglei001" rel="nofollow">Threaded App 的帐号</a></li>
-</ol>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/26</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/26</guid>
-            <dc:creator><![CDATA[23784148]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[什么时候需要使用简悦 · 同步助手]]></title>
-            <description><![CDATA[<blockquote>
-<p dir="auto">如果你经常遇到以下的提示</p>
-</blockquote>
-<p dir="auto"><a href="https://imgchr.com/i/stqZ3n" rel="nofollow"><img src="https://camo.githubusercontent.com/c65db458cb914565010aea582073168c49724c598f25a6ef2d550f70c91c09be/68747470733a2f2f73332e617831782e636f6d2f323032312f30312f31332f7374715a336e2e706e67" alt="stqZ3n.png" data-canonical-src="https://s3.ax1x.com/2021/01/13/stqZ3n.png" style="max-width: 100%;"></a></p>
-<p dir="auto">这是因为你没有启动简悦 · 同步助手，也或许对它并不是太了解，希望本文能解决你的一些疑问。</p>
-<h2 dir="auto">同步助手是什么？</h2>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync" rel="nofollow"><strong>同步助手</strong></a> 是随着简悦 2.1 版本发布的一个 <strong>桌面 App</strong></p>
-<p dir="auto"><strong>它有两部分构成：</strong></p>
-<ol dir="auto">
-<li>桌面 App <code class="notranslate">.app</code> or <code class="notranslate">.exe</code> 文件</li>
-</ol>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bf5427cfb230bd13e9acf0ac1a84ad2ced027197dd2d8e462cf8f35d097da0ad/68747470733a2f2f73312e617831782e636f6d2f323032302f31312f31312f4258345379562e6d642e706e67"><img src="https://camo.githubusercontent.com/bf5427cfb230bd13e9acf0ac1a84ad2ced027197dd2d8e462cf8f35d097da0ad/68747470733a2f2f73312e617831782e636f6d2f323032302f31312f31312f4258345379562e6d642e706e67" alt="" data-canonical-src="https://s1.ax1x.com/2020/11/11/BX4SyV.md.png" style="max-width: 100%;"></a></p>
-<ol start="2" dir="auto">
-<li>扩展端 → 选项页 → 共通 → 同步助手</li>
-</ol>
-<p dir="auto"><a href="https://imgchr.com/i/stqJ3R" rel="nofollow"><img src="https://camo.githubusercontent.com/3c287606ec50e8fa4041b4aae93aee0b6303f240cda05b553f41f4a9fcf22e97/68747470733a2f2f73332e617831782e636f6d2f323032312f30312f31332f7374714a33522e706e67" alt="stqJ3R.png" data-canonical-src="https://s3.ax1x.com/2021/01/13/stqJ3R.png" style="max-width: 100%;"></a></p>
-<h2 dir="auto">为什么要有同步助手？</h2>
-<p dir="auto">Chrome 扩展功能受限，所以没有办法做太多事情，如： <strong>保存文件到本地任意位置</strong>，<strong>启动服务</strong> 等。</p>
-<p dir="auto">所以有了同步助手，算做是扩展端在功能上的补充。</p>
-<h2 dir="auto">同步助手能做什么？</h2>
-<p dir="auto">它最主要一个功能：<a href="http://ksria.com/simpread/docs/#/%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5" rel="nofollow">自动同步</a> ，使用此功能后，<strong>可以将原本保存到 Chrome 沙箱内部的数据实时保存到本地的任意位置</strong>。</p>
-<p dir="auto">除此以外，还有包括下面的功能：</p>
-<ul dir="auto">
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5" rel="nofollow">自动同步</a></p>
-</li>
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=%E5%86%85%E7%BD%AE%E8%A7%A3%E6%9E%90" rel="nofollow">内置解析</a></p>
-</li>
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=%E5%AF%BC%E5%87%BA%E6%9C%8D%E5%8A%A1" rel="nofollow">导出服务</a></p>
-</li>
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=PDF" rel="nofollow">PDF</a></p>
-</li>
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=Epub" rel="nofollow">Epub</a></p>
-</li>
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=pandoc" rel="nofollow">pandoc</a></p>
-</li>
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=Hypothesis" rel="nofollow">Hypothesis</a></p>
-</li>
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=Readwise" rel="nofollow">Readwise.io</a></p>
-</li>
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=%E9%82%AE%E4%BB%B6%E6%9C%8D%E5%8A%A1" rel="nofollow">邮件服务</a></p>
-</li>
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=%E5%8F%91%E9%80%81%E5%88%B0Kindle" rel="nofollow">发送到Kindle</a></p>
-</li>
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=%E7%B3%BB%E7%BB%9F%E7%BA%A7%E5%BF%AB%E6%8D%B7%E9%94%AE" rel="nofollow">系统级快捷键</a></p>
-</li>
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=%E6%89%93%E5%BC%80%E7%A8%8D%E5%90%8E%E8%AF%BB" rel="nofollow">打开稍后读</a></p>
-</li>
-<li>
-<p dir="auto"><a href="http://ksria.com/simpread/docs/#/Sync?id=Bookmarklet" rel="nofollow">Bookmarklet</a></p>
-</li>
-</ul>
-<blockquote>
-<p dir="auto">如果你对上述内容并不感兴趣的话，请不要开启此功能，如何关闭请看这里 <a href="https://github.com/Kenshin/simpread/discussions/1692">https://github.com/Kenshin/simpread/discussions/1692</a></p>
-</blockquote>
-<h2 dir="auto">自动同步的意义</h2>
-<blockquote>
-<p dir="auto">当通过此功能可以把简悦的配置文件（内含稍后读数据）保存到本地的任意位置后，就可以利用网盘实现全网同步功能。</p>
-</blockquote>
-<p dir="auto">所以，当你没有 <strong>使用网盘同步的需求，则不要开启自动同步功能</strong>，请不要开启此功能，如何关闭请看这里 <a href="https://github.com/Kenshin/simpread/discussions/1692">https://github.com/Kenshin/simpread/discussions/1692</a></p>
-<p dir="auto">但 <strong>关闭自动同步功能并不影响使用同步助手的其它功能</strong>，如：<a href="http://ksria.com/simpread/docs/#/Sync?id=Bookmarklet" rel="nofollow">Bookmarklet</a> <a href="http://ksria.com/simpread/docs/#/Sync?id=%E9%82%AE%E4%BB%B6%E6%9C%8D%E5%8A%A1" rel="nofollow">邮件服务</a> 等。</p>
-<h2 dir="auto">自动同步与非自动同步（原有方案）区别</h2>
-<ul dir="auto">
-<li>
-<p dir="auto">前者会把数据保存到本地（借助同步助手）</p>
-</li>
-<li>
-<p dir="auto">后者会把数据保存到 Chrome 内部</p>
-</li>
-</ul>
-<p dir="auto">开启 <strong>自动同步</strong> 后，<strong>同步助手负责读取/保存数据</strong>，简悦负责阅读模式或发送稍后读。（所以需要同步助手一直在运行）</p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/27</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/27</guid>
-            <dc:creator><![CDATA[23784148]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[若干个简悦的 RSS 订阅源]]></title>
-            <description><![CDATA[<p dir="auto"><a href="https://imgchr.com/i/s8VkLj" rel="nofollow"><img src="https://camo.githubusercontent.com/73811a5130e47d0273ec01dd9c950065b60b8d4494e7722c530ab2645fa9b784/68747470733a2f2f73332e617831782e636f6d2f323032312f30312f31312f7338566b4c6a2e706e67" alt="s8VkLj.png" data-canonical-src="https://s3.ax1x.com/2021/01/11/s8VkLj.png" style="max-width: 100%;"></a></p>
-<blockquote>
-<p dir="auto">为方便简悦的用户，现在发布几个简悦的 RSS 订阅源。</p>
-</blockquote>
-<ol dir="auto">
-<li>
-<p dir="auto"><a href="https://rss.simpread.pro/feed" rel="nofollow">https://rss.simpread.pro/feed</a> → 基本上涵盖了简悦的文章/技巧/玩法/入门/动态/版本更新等内容（<strong>更新频率高，建议订阅</strong>）</p>
-</li>
-<li>
-<p dir="auto"><a href="https://rss.simpread.pro/changelog" rel="nofollow">https://rss.simpread.pro/changelog</a> → 更新日志（当有新版本时会更新此 RSS）</p>
-</li>
-<li>
-<p dir="auto"><a href="https://rss.simpread.pro/notice" rel="nofollow">https://rss.simpread.pro/notice</a> → 消息中心（内容来自选项页 → 右下角的消息中心）</p>
-</li>
-<li>
-<p dir="auto"><a href="https://rss.simpread.pro/plugins" rel="nofollow">https://rss.simpread.pro/plugins</a> → 插件介绍（来自插件中心的各个插件的功能介绍）</p>
-</li>
-<li>
-<p dir="auto"><a href="https://rss.simpread.pro/features" rel="nofollow">https://rss.simpread.pro/features</a> → 详细功能说明（简悦每个版本都会有详细的功能说明，有更新时会更新此 RSS）</p>
-</li>
-</ol>
-<p dir="auto">另外，上述内容都可以在简悦 · 订阅中心查看 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://simpread.pro/subscribe" rel="nofollow">https://simpread.pro/subscribe</a> 未来会增加更多的可以订阅的资源。</p>
-<p dir="auto">备注：2 ~3 订阅源来自社区的 <a href="https://t.me/ZyTomorrow" rel="nofollow">@ZyTomorrow</a> <g-emoji class="g-emoji" alias="pray" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png">🙏</g-emoji></p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/28</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/28</guid>
-            <dc:creator><![CDATA[23784148]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[简悦 · Newsletter]]></title>
-            <description><![CDATA[<p dir="auto"><a href="https://imgchr.com/i/yNZMrQ" rel="nofollow"><img src="https://camo.githubusercontent.com/9aec14ca548e0528b6ee5e48588f715bcf9872402c24caf56a80e63f9129f695/68747470733a2f2f73332e617831782e636f6d2f323032312f30322f30372f794e5a4d72512e706e67" alt="yNZMrQ.png" data-canonical-src="https://s3.ax1x.com/2021/02/07/yNZMrQ.png" style="max-width: 100%;"></a></p>
-<h2 dir="auto">简悦 · Newsletter</h2>
-<blockquote>
-<p dir="auto">想做 Newsletter 好久了，一直没有适合的平台，今天无意中发现了 <a href="https://www.getrevue.co/" rel="nofollow">revue</a> 这是一个被 Twitter 收购的 Newsletter 平台，我准备将 <strong>简悦的 Newsletter</strong> 放到这里。</p>
-</blockquote>
-<h4 dir="auto">订阅</h4>
-<p dir="auto"><a href="https://www.getrevue.co/profile/kenshin" rel="nofollow">https://www.getrevue.co/profile/kenshin</a></p>
-<h4 dir="auto">Newsletter 的内容</h4>
-<blockquote>
-<p dir="auto">包括：<strong>简悦的新功能，技巧，入门性文章</strong> 以及有关 <strong>生产力工具 / 工作流</strong> 的一些内容。</p>
-</blockquote>
-<h4 dir="auto">Revue 的介绍</h4>
-<ul dir="auto">
-<li><a href="https://zhuanlan.zhihu.com/p/349855393" rel="nofollow">https://zhuanlan.zhihu.com/p/349855393</a></li>
-<li><a href="https://twitter.com/wanglei001/status/1358322013492948992" rel="nofollow">https://twitter.com/wanglei001/status/1358322013492948992</a></li>
-<li><a href="https://threadreaderapp.com/thread/1358322013492948992.html" rel="nofollow">https://threadreaderapp.com/thread/1358322013492948992.html</a></li>
-</ul>
-<h2 dir="auto">近期一些技巧汇总</h2>
-<ol dir="auto">
-<li>
-<p dir="auto">如何利用简悦 · 同步助手快速回源原页面的任意位置 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://github.com/Kenshin/simpread/discussions/1720">https://github.com/Kenshin/simpread/discussions/1720</a><br>
-来自社区用户 <a href="https://t.me/BONABC" rel="nofollow">@BONABC</a> 的技巧</p>
-</li>
-<li>
-<p dir="auto">在 Mac 端导出 PDF 出现二次编辑错位情况的解决方案（Windows 用户无此问题） <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://github.com/Kenshin/simpread/discussions/1772">https://github.com/Kenshin/simpread/discussions/1772</a></p>
-</li>
-<li>
-<p dir="auto">关于 Notion 无法授权或导入空文件等问题的集中说明（附解决方案） <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://github.com/Kenshin/simpread/discussions/1773">https://github.com/Kenshin/simpread/discussions/1773</a></p>
-</li>
-<li>
-<p dir="auto">一定要小心「数据孤岛」,一旦形成后就没法迁移 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://zhuanlan.zhihu.com/p/348520757" rel="nofollow">https://zhuanlan.zhihu.com/p/348520757</a></p>
-</li>
-<li>
-<p dir="auto">如何在稍后读内置的阅读模式中导出含有标注的全文（仅限 HTML） <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://github.com/Kenshin/simpread/discussions/1712">https://github.com/Kenshin/simpread/discussions/1712</a></p>
-</li>
-</ol>
-<blockquote>
-<p dir="auto">我会在每周发一个【简悦技巧汇总】，如果你也喜欢订阅 RSS 的话，订阅地址 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://rss.simpread.pro/feed" rel="nofollow">https://rss.simpread.pro/feed</a> 以及其它简悦的 RSS 订阅源 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> <a href="https://simpread.pro/subscribe" rel="nofollow">https://simpread.pro/subscribe</a></p>
-</blockquote>
-<h2 dir="auto">Clubhouse</h2>
-<blockquote>
-<p dir="auto">近期大火的 Clubhouse，我（ Kenshin ）也掺和了下，如果你也有 ch 帐号的话，欢迎 fo 我<br>
-我在 Cloubhouse ID <strong><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/wanglei001/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/wanglei001">@wanglei001</a></strong></p>
-</blockquote>
-<blockquote>
-<p dir="auto">至于我会在 Cloubhouse 上面干什么？目前的初步想法是新版本发布后的一些功能说明，或许会放到它的上面。</p>
-</blockquote>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/29</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/29</guid>
-            <dc:creator><![CDATA[23784148]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[简悦为什么使用 Revue 作为 Newsletter 的平台]]></title>
-            <description><![CDATA[<p dir="auto"><a href="https://imgchr.com/i/yNZMrQ" rel="nofollow"><img src="https://camo.githubusercontent.com/9aec14ca548e0528b6ee5e48588f715bcf9872402c24caf56a80e63f9129f695/68747470733a2f2f73332e617831782e636f6d2f323032312f30322f30372f794e5a4d72512e706e67" alt="yNZMrQ.png" data-canonical-src="https://s3.ax1x.com/2021/02/07/yNZMrQ.png" style="max-width: 100%;"></a></p>
-<blockquote>
-<p dir="auto">简悦想用 Newsletter 好久了，一直没有适合的平台，今天无意中发现了 <a href="https://link.zhihu.com/?target=https%3A//www.getrevue.co/" rel="nofollow">revue</a> 这是一个被 Twitter 收购的 Newsletter 平台，我准备将 简悦的 Newsletter 放到这里。</p>
-</blockquote>
-<h2 dir="auto">订阅</h2>
-<blockquote>
-<p dir="auto">嗨，如果你喜欢 <a href="https://link.zhihu.com/?target=https%3A//twitter.com/hashtag/%E7%AE%80%E6%82%A6%3Fsrc%3Dhashtag_click" rel="nofollow">#简悦</a> 或 生产力工具 / 工作流 的 Newsletter 爱好者，可以订阅我的这份简报</p>
-</blockquote>
-<p dir="auto"><a href="https://link.zhihu.com/?target=https%3A//www.getrevue.co/profile/kenshin" rel="nofollow">https://www.getrevue.co/profile/kenshinwww.getrevue.co</a></p>
-<h2 dir="auto">负一期</h2>
-<blockquote>
-<p dir="auto">这篇文章是通过此平台撰写的第「负一期」<br>
-至于为什么是负一期，因为本篇文章是 <strong>测试版</strong>，用来测试此平台的效果 <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">😁</g-emoji></p>
-</blockquote>
-<p dir="auto"><a href="https://link.zhihu.com/?target=https%3A//www.getrevue.co/profile/kenshin/issues/weekly-newsletter-of-kenshin-1-353216" rel="nofollow">https://www.getrevue.co/profile/kenshin/issues/weekly-newsletter-of-kenshin-1-353216www.getrevue.co</a></p>
-<hr>
-<blockquote>
-<p dir="auto">以下是 Revue 的一些介绍。</p>
-</blockquote>
-<h2 dir="auto">背景介绍</h2>
-<p dir="auto"><a href="https://link.zhihu.com/?target=https%3A//t.co/trVgZPvOFM%3Famp%3D1" rel="nofollow">https://getrevue.co</a> 是 Twitter 刚刚收购的 Newsletter 平台，我没有用过其它平台，仅聊聊「我为什么使用 Revue 作为 Newsletter 的平台」</p>
-<p dir="auto">在 Twitter 收购 Revue 后，整合 Twitter 到 Revue 中（ 可以使用推的帐号直接登录 Revue） 同时在登录到 Revue 后，你会发现可以在其中嵌入推文 结合 Threaded Twitter 的写作方式，你可以将这些信息方便的「导入到」 Newsletter</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6917702633482a7c658c087bf8a346feb0f8c437337efbf07774e1f07b78b2a0/68747470733a2f2f706963332e7a68696d672e636f6d2f38302f76322d33643666623661613465656239626230373965373262636366663831313563615f373230772e6a7067"><img src="https://camo.githubusercontent.com/6917702633482a7c658c087bf8a346feb0f8c437337efbf07774e1f07b78b2a0/68747470733a2f2f706963332e7a68696d672e636f6d2f38302f76322d33643666623661613465656239626230373965373262636366663831313563615f373230772e6a7067" alt="img" data-canonical-src="https://pic3.zhimg.com/80/v2-3d6fb6aa4eeb9bb079e72bccff8115ca_720w.jpg" style="max-width: 100%;"></a></p>
-<p dir="auto">这还不是唯一导入方式。</p>
-<h2 dir="auto">Revue 还支持多种导入方式</h2>
-<ol dir="auto">
-<li>
-<p dir="auto">常规工具，如： Pocket，Instapaper，Medium 甚至 RSS 也可以</p>
-</li>
-<li>
-<p dir="auto">提供浏览器插件。</p>
-</li>
-<li>
-<p dir="auto">甚至于可以接入 Zapier 平台<a href="https://link.zhihu.com/?target=https%3A//t.co/djIokZhLvB%3Famp%3D1" rel="nofollow">https://getrevue.co/app/integrations/zapier</a></p>
-</li>
-</ol>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1f7f61597484bda5486f5eca37226fa2fa74d236d903baefb7feccefdaac98d8/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d35366366656266386234656464663866346339616337336437393930663266645f373230772e6a7067"><img src="https://camo.githubusercontent.com/1f7f61597484bda5486f5eca37226fa2fa74d236d903baefb7feccefdaac98d8/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d35366366656266386234656464663866346339616337336437393930663266645f373230772e6a7067" alt="img" data-canonical-src="https://pic2.zhimg.com/80/v2-56cfebf8b4eddf8f4c9ac73d7990f2fd_720w.jpg" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aec54e84ffc49e91451f6c210beaf497c1c19c9fb39f21c7697b08ca57aa41e6/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d62623666343864663530343464393063363138663562343630323231626135645f373230772e6a7067"><img src="https://camo.githubusercontent.com/aec54e84ffc49e91451f6c210beaf497c1c19c9fb39f21c7697b08ca57aa41e6/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d62623666343864663530343464393063363138663562343630323231626135645f373230772e6a7067" alt="img" data-canonical-src="https://pic2.zhimg.com/80/v2-bb6f48df5044d90c618f5b460221ba5d_720w.jpg" style="max-width: 100%;"></a></p>
-<p dir="auto">通过（上面）这些功能，你可以将发到推或 Pocket / Medium 之类的内容方便的通过拖拽即可生成一篇 Newsletter 本篇文章 <a href="https://link.zhihu.com/?target=https%3A//t.co/X2i7R9USed%3Famp%3D1" rel="nofollow">https://getrevue.co/profile/kenshin/issues/weekly-newsletter-of-kenshin-1-353216…</a> 就是通过此产生的。</p>
-<p dir="auto">从构思到完成，花费我不一个小时的时间。（包括第一次使用时的入门时间，如果单说内容时间，绝对不超过二十分钟）</p>
-<h2 dir="auto">再谈谈编辑环境</h2>
-<p dir="auto">除了上面说的拖拽方案外，还支持类似 Medium 的写作方案，包括：拖拽排序，图文混排，提供 H1 文本 超链接以及文字内样式。 同时支持一定程度的「带有样式的粘贴」方式。</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9889daca8ff291754bd7d1384e94db5dae22a559cae08d28c698305f5c0ee74b/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d37633238306538323839653661646535666233386539623032303639363965395f373230772e6a7067"><img src="https://camo.githubusercontent.com/9889daca8ff291754bd7d1384e94db5dae22a559cae08d28c698305f5c0ee74b/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d37633238306538323839653661646535666233386539623032303639363965395f373230772e6a7067" alt="img" data-canonical-src="https://pic2.zhimg.com/80/v2-7c280e8289e6ade5fb38e9b0206969e9_720w.jpg" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cbe3db5ca1c2793366b2d7b0f09d01bee3da9658b6ae03e6f385a7d8695a2553/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d33633761633663653332623336336465633932663238306236666264333037315f373230772e6a7067"><img src="https://camo.githubusercontent.com/cbe3db5ca1c2793366b2d7b0f09d01bee3da9658b6ae03e6f385a7d8695a2553/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d33633761633663653332623336336465633932663238306236666264333037315f373230772e6a7067" alt="img" data-canonical-src="https://pic2.zhimg.com/80/v2-3c7ac6ce32b363dec92f280b6fbd3071_720w.jpg" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/afee855a56cc3deeb0aba2669e7e6fec53c0e13e12f8eb9a424866f7ce62758d/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d32343133366532343134333235306262373964343032643564376134346537395f373230772e6a7067"><img src="https://camo.githubusercontent.com/afee855a56cc3deeb0aba2669e7e6fec53c0e13e12f8eb9a424866f7ce62758d/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d32343133366532343134333235306262373964343032643564376134346537395f373230772e6a7067" alt="img" data-canonical-src="https://pic2.zhimg.com/80/v2-24136e24143250bb79d402d5d7a44e79_720w.jpg" style="max-width: 100%;"></a></p>
-<h2 dir="auto">订阅的渠道</h2>
-<p dir="auto">基本上涵盖了常见的场景，如 Import from Mailchimp， Import from file 等方式。</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d24a40a25c043ef32cd2163d334db403a536883cf2641e0a79bbc81a61d3e0df/68747470733a2f2f706963332e7a68696d672e636f6d2f38302f76322d66363262343433376533316432396233626136313561616431393366373539615f373230772e6a7067"><img src="https://camo.githubusercontent.com/d24a40a25c043ef32cd2163d334db403a536883cf2641e0a79bbc81a61d3e0df/68747470733a2f2f706963332e7a68696d672e636f6d2f38302f76322d66363262343433376533316432396233626136313561616431393366373539615f373230772e6a7067" alt="img" data-canonical-src="https://pic3.zhimg.com/80/v2-f62b4437e31d29b3ba615aad193f759a_720w.jpg" style="max-width: 100%;"></a></p>
-<h2 dir="auto">支持 API</h2>
-<p dir="auto"><a href="https://link.zhihu.com/?target=https%3A//t.co/Z1cVKz8e1g%3Famp%3D1" rel="nofollow">https://getrevue.co/api</a> 包含常见的一些使用场景，如果有编程能力的话，很容易将 Revue 嵌入到你的程序中。</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1468806d7ce18ac8fc297e82fde39b77a9add058f1b2934c40dc74c032635ddc/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d39613261383338633638366338336537626431363262626265343965366463395f373230772e6a7067"><img src="https://camo.githubusercontent.com/1468806d7ce18ac8fc297e82fde39b77a9add058f1b2934c40dc74c032635ddc/68747470733a2f2f706963322e7a68696d672e636f6d2f38302f76322d39613261383338633638366338336537626431363262626265343965366463395f373230772e6a7067" alt="img" data-canonical-src="https://pic2.zhimg.com/80/v2-9a2a838c686c83e7bd162bbbe49e6dc9_720w.jpg" style="max-width: 100%;"></a></p>
-<hr>
-<blockquote>
-<p dir="auto">以上就是关于 Revue 的一些简单介绍，希望你能喜欢。 <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">😁</g-emoji></p>
-</blockquote>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/30</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/30</guid>
-            <dc:creator><![CDATA[23784148]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[简悦春季特价，暨少数派九周年]]></title>
-            <description><![CDATA[<p dir="auto"><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>  <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>   <strong>简悦 · 高级账户特价活动</strong>  <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>  <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji></p>
-<p dir="auto"><a href="https://imgtu.com/i/6G2p8S" rel="nofollow"><img src="https://camo.githubusercontent.com/0830bfdbb04e3119d3170d6efdb453a1ea3bfdbcd4a7b4cba837355759bab88e/68747470733a2f2f73332e617831782e636f6d2f323032312f30332f31302f3647327038532e706e67" alt="6G2p8S.png" data-canonical-src="https://s3.ax1x.com/2021/03/10/6G2p8S.png" style="max-width: 100%;"></a></p>
-<hr>
-<blockquote>
-<p dir="auto">由于 <a href="http://sspai.com/" rel="nofollow">@少数派</a> 给予了简悦很多帮助，所以在【少数派九周年庆典】之际简悦也凑个热闹，氛围组走起~</p>
-</blockquote>
-<hr>
-<p dir="auto">今年是第一次活动，错过去年特价的用户，可以出手了。<br>
-即便之后再有特价，价格方面也肯定 &gt;= 此次特价活动。</p>
-<ul dir="auto">
-<li>时间：<strong>截至到 2021年3月23日</strong></li>
-<li>特价：<strong>14 元</strong></li>
-</ul>
-<p dir="auto">少数派购买链接 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://sspai.com/item/186" rel="nofollow">https://sspai.com/item/186</a><br>
-支付宝直接付款链接 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://wj.qq.com/s2/6918802/ffc8/" rel="nofollow">https://wj.qq.com/s2/6918802/ffc8/</a><br>
-更多购买方式 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://simpread.pro/price.html" rel="nofollow">https://simpread.pro/price.html</a></p>
-<hr>
-<p dir="auto">如果对简悦不了解的朋友，用一句话形容简悦：<strong>阅读模式 + 导出 + 标注 + 稍后读</strong></p>
-<p dir="auto">简悦的宗旨：为浏览器提供 <strong>「如杂志般沉浸式阅读体验」</strong> 。</p>
-<p dir="auto">关于 简悦 2.0 的介绍请看这里 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://sspai.com/post/61996" rel="nofollow">https://sspai.com/post/61996</a></p>
-<p dir="auto">简悦官网 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://simpread.pro/" rel="nofollow">https://simpread.pro/</a><br>
-Chrome Webstore 下载地址 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://sourl.cn/b9Vsnj" rel="nofollow">https://sourl.cn/b9Vsnj</a><br>
-更多下载地址 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://sourl.cn/ruHSut" rel="nofollow">https://sourl.cn/ruHSut</a><br>
-关于简悦的更多功能介绍可以看 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  <a href="https://sourl.cn/66pBdF" rel="nofollow">https://sourl.cn/66pBdF</a></p>
-<hr>
-<h3 dir="auto">彩蛋</h3>
-<blockquote>
-<p dir="auto">你以为就这样完事了？简悦也顺道一个搞一个回馈用户的活动  <g-emoji class="g-emoji" alias="smirk" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png">😏</g-emoji></p>
-</blockquote>
-<blockquote>
-<p dir="auto">前往 <strong><a href="https://sourl.cn/b9Vsnj" rel="nofollow">Chrome Webstore</a></strong> 或 <strong><a href="https://microsoftedge.microsoft.com/addons/detail/%E7%AE%80%E6%82%A6-simpread/clgdhlhfiocphghdkdbgdlmfaafccfmc" rel="nofollow">Edge 应用商店</a></strong>  并 <strong>五星好评 + 留言</strong>（真实的使用感受或体验）</p>
-</blockquote>
-<p dir="auto"><strong>抽奖时间</strong><br>
-2021年3月9日 ~ 2021年3月23日</p>
-<p dir="auto"><strong>抽奖方法</strong></p>
-<ol dir="auto">
-<li>每八名用户即赠送一个中奖名额（注意：因为上次人数比较多，所以这次改为每八人）</li>
-<li>到截至日后，如不足五名，四舍五入<br>
-（划重点）也就是，每八个人就一定有一人中奖。</li>
-<li>已评论过的用户，请不要重复评价。</li>
-<li><strong>Chrome Webstore</strong> 与 <strong>Edge 应用商店</strong> 分别统计，可同时提交评价。</li>
-</ol>
-<p dir="auto"><strong>如何抽奖</strong><br>
-每八名抽取一次，使用 Math.floor( Math.random() * 8 )，即随机返回 0 ~ 7 的值对应了八个的抽奖用户。</p>
-<p dir="auto"><strong>奖品</strong><br>
-简悦 · 高级账户一枚</p>
-<p dir="auto"><strong>开奖</strong><br>
-请关注 <a href="https://t.me/simpread" rel="nofollow">https://t.me/simpread</a> 我在【2021年3月23日】之后择日公布抽奖结果。</p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/31</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/31</guid>
-            <dc:creator><![CDATA[23784148]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[二零二三年五一小长假]]></title>
-            <description><![CDATA[<blockquote>
-<p dir="auto">不知不觉已经很久没有写博客了，疫情结束了，希望重拾写日记的习惯。</p>
-</blockquote>
-<h1 dir="auto">后疫情的第一个长假</h1>
-<p dir="auto">虽然 2022 年底疫情就结束了，但毕竟大部分中国人都先后 <g-emoji class="g-emoji" alias="sheep" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f411.png">🐑</g-emoji> 了，虽然有春节假期，但毕竟很少有人春节出去玩...</p>
-<p dir="auto">所以，理论上，2023年的五一小长假是疫情结束后的第一个较长的假期。</p>
-<h1 dir="auto">难订的车票</h1>
-<p dir="auto">原本计划老婆那边五一怎么都能休息10天左右，但她们学校不靠谱，导致计划泡汤，哪怕是去趟长春，高铁票也几乎买不到。<g-emoji class="g-emoji" alias="sob" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f62d.png">😭</g-emoji></p>
-<p dir="auto">后来无意间得知，很多人都跟我有一样的想法，五一周边游... 所以导致高铁 3 个小时左右车程的票，一票难求！</p>
-<h1 dir="auto">五一（第一天）</h1>
-<p dir="auto">开车拉着全家去横道吃农家乐，这是疫情以来第一次开车去周边，因为前几天一直在 <g-emoji class="g-emoji" alias="umbrella" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2614.png">☔️</g-emoji> 本来想放弃这个方案，但无奈天气实在太好了。</p>
-<p dir="auto">先去了车库给电瓶充电（好久没开了... <g-emoji class="g-emoji" alias="joy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f602.png">😂</g-emoji>），然后原计划在车库旁边的咖啡厅坐一会，结果人家没开门，把原计划全部都打乱了，所以想在周边溜达溜达，但风太大了，再加上我发现家附件的瑞幸可以点茶咖（据说一杯难求？），所以只能选用 B 方案，去更远的瑞幸...</p>
-<p dir="auto">瑞幸对我来说，除了加浓美式以外，其余的都太寡淡了，实在是不对胃口。</p>
-<p dir="auto">市里感觉并不太堵，但到了横道附近发现傻 B了，高速堵车... <g-emoji class="g-emoji" alias="cry" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png">😢</g-emoji> （更不好的消息是：第二天人就不堵车了，下午也不堵车，仅仅只是中午堵车）</p>
-<p dir="auto">感觉整个城市的人都去往东北虎林园。虽然跟他们不同路，但毕竟高速出口只有一个...</p>
-<p dir="auto">堵了半个多小时终于到地方了，随便找个地方停车，但饭店爆满！爆满！爆满！<g-emoji class="g-emoji" alias="sob" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f62d.png">😭</g-emoji> 还好找到了一家隔壁的饭店，没有那么多人。很难理解，几乎同样的菜，为什么差距那么大。</p>
-<p dir="auto">距离上次来这里吃饭，至少是三年前的事情了，疫情耽误了太多的事情，尤其是生活，被弄的七零八碎。</p>
-<h1 dir="auto">五一（第二天）</h1>
-<p dir="auto">今天是家庭活动日，老规矩去江南（或者去师院吃鸡块，但因为修道，并不是太好走），走之前问了下风力，发现是 4 ~ 5 级西北风，所以还是没敢走东四江桥，直接走的西三江桥。</p>
-<p dir="auto">江北堤坝这边全都是人！全都是人！全都是人！结果到了江南（堤坝）后，几乎没有任何人，虽然江南发展了很多年，人气依然不行，所以各个方面都不行。</p>
-<p dir="auto">最终目的地到了甜甜...的大通冰室。因为每次去甜甜都要在它家吃点东西，因为天热，破天荒的点了被港式咖啡，味道竟然还说的过去。</p>
-<h1 dir="auto">五一（第三天）</h1>
-<p dir="auto">今天大扫除，主要是整理旧衣服，现在收旧衣服是1公斤/0.5元... 我记得疫情前肯定是按件收取价格的。</p>
-<p dir="auto">我其实没有丢弃用过东西的习惯，但无奈衣服会越来越多，毕竟旧衣服几乎没有穿的场合了，再加上现在是专业回收，也许旧衣服会有它存在的价值，所以决定整理旧衣服了。</p>
-<p dir="auto">整理旧衣服的时候发现几条裤子，老婆说穿不下去了，但我还是试了试，答案是：「可以穿进去」，看来我也没胖太多。<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p>
-<p dir="auto">还发现一件旧衣服是老爸去学校看我的时候买的，好贵 1K+，放在现在怎么等价也小 10K 了，没舍得回收，就留下来了。</p>
-<p dir="auto">整理完了后，一共：</p>
-<ul dir="auto">
-<li>旧书：7 公斤</li>
-<li>旧衣服：34 公斤</li>
-</ul>
-<p dir="auto">用的是支付宝里面的 <a href="https://www.fmy90.com/" rel="nofollow">飞蚂蚁</a>  ，书走的京东；衣服走的徳邦。京东很快就上门了，徳邦差不多隔了 3 个小时才收走，而且还没有打包的，分了两批次邮走，第二次还得在支付宝下单。</p>
-<p dir="auto">从服务上来说，京东秒杀徳邦，所以有的时候公司做大了，是有做大的道理。</p>
-<p dir="auto">我感觉目前来说服务和效率最高的还是顺丰，其次是京东，然后是那些普通快递。</p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/32</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/32</guid>
-            <dc:creator><![CDATA[23784148]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[《银河护卫队3》归来]]></title>
-            <description><![CDATA[<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/31840739/236621540-f389abc5-52df-4b43-b320-65a8988d3a32.png"><img src="https://user-images.githubusercontent.com/31840739/236621540-f389abc5-52df-4b43-b320-65a8988d3a32.png" alt="image" style="max-width: 100%;"></a></p>
-<blockquote>
-<p dir="auto">《银护3》归来，<strong>2023 年的第 3 部漫威电影</strong>，<strong>近几年最好看的一部漫威电影</strong>。</p>
-</blockquote>
-<h1 dir="auto">评分</h1>
-<p dir="auto"><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji></p>
-<h1 dir="auto">感受</h1>
-<p dir="auto">之前因为各种奇怪的剧透导致，这部片是除了《复联3/4》看的过程中最紧张的。</p>
-<p dir="auto">整个观影下来，几乎全程无垃圾时间，有笑有泪，银河搞笑天团以一种可以接受的方式（暂时）落下帷幕。</p>
-<p dir="auto">在漫威体系中一个体面且合理的谢幕并不是那么困难，是不？（是的，我说美队和钢罐... 长点心吧  <g-emoji class="g-emoji" alias="imp" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47f.png">👿</g-emoji></p>
-<p dir="auto">滚导的电影非常有他自己的风格，上次看《银护2》竟然是六年前的事情了，完全没想到，因为记忆犹新。</p>
-<p dir="auto">漫威的很多电影其实都是「预告片」，再加上成熟的漫威风格，所以一旦看的太多，就会出现观影疲劳，这也是《复联3/4》之后 n 部电影叫座不叫好的根本原因。</p>
-<p dir="auto">就像是爆米花流水线出厂的一样，在哪里有笑点，在哪里有泪点，然后「大团圆」结局，绝对让你看到 High，但除了 High 和片尾的彩蛋以外，很难有更多共鸣。</p>
-<p dir="auto">但滚导用《银护3》告诉我们，拒绝「预告片」让 Kang 暂时歇歇吧，我就说《银护3》的故事，其他都靠边。</p>
-<p dir="auto">所以，才有 8.6 分的高分（截至到5月6日19点）。</p>
-<p dir="auto">而滚导也通过《银护3》告诉我们，不那么「漫威」后才可以更纯粹的「漫威」。</p>
-<p dir="auto">PS：小动物爱好者需要谨慎观影。<g-emoji class="g-emoji" alias="sob" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f62d.png">😭</g-emoji></p>
-<h1 dir="auto">聊聊反派</h1>
-<p dir="auto">漫威的反派除了紫薯精和洛基（还被洗白白）塑造非常成功外，大部分反派都是一次性反派，都是为了推动剧情发展而设置的，也就是非常脸谱化。</p>
-<p dir="auto">但《银护3》的反派「很有意思」，从我的观影角度来说，他是最差劲的一个：</p>
-<ul dir="auto">
-<li>智商：不如火箭（否则也没有本片了），而火箭的智商应该不如铁罐（无论是电影还是漫画均如此）。</li>
-<li>战斗力：本身就没有啥战斗力，片头虽然（用重力）碾压亚当（我认为完全是为了剧情需要...），最后被一个重力靴搞定，然后被银河天团爆揍到没有任何还手之力...（要知道同样被碾压的亚当在片头几乎团灭了主角团 <g-emoji class="g-emoji" alias="joy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f602.png">😂</g-emoji></li>
-</ul>
-<p dir="auto">我觉得，斯科特巨大化后一脚就能解决...</p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/33</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/33</guid>
-            <dc:creator><![CDATA[23784148]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[碎碎念]]></title>
-            <description><![CDATA[<p dir="auto">这里会放一些随时想到 / 想发的内容。</p>
-<p dir="auto"><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p>]]></description>
-            <link>https://kenshin.wang/blog/#/posts/34</link>
-            <guid isPermaLink="true">https://kenshin.wang/blog/#/posts/34</guid>
-            <dc:creator><![CDATA[23784148]]></dc:creator>
+            <pubDate>Tue, 29 Dec 2020 05:30:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
