@@ -11,17 +11,18 @@ const fs          = require( 'fs' ),
           repo    = repos[1],
           octokit = new Octokit({ auth: token });
 
+    /*
     const { data: issues } = await octokit.request( `GET /repos/${owner}/${repo}/issues`, {
         owner,
         repo,
         per_page: 20,
     });
+    */
 
-    /*
     const query = `
         query {
             repository(owner: "${owner}", name: "${repo}") {
-                issues(first: 10, orderBy: {field: CREATED_AT, direction: DESC}) {
+                issues(first: 10, orderBy: { field: CREATED_AT, direction: DESC }) {
                     edges {
                         node {
                             title
@@ -30,6 +31,7 @@ const fs          = require( 'fs' ),
                             author {
                                 login
                             }
+                            bodyHTML
                             labels(first: 10) {
                                 edges {
                                     node {
@@ -52,14 +54,11 @@ const fs          = require( 'fs' ),
     );
 
     const issues = response.data.data.repository.issues.edges;
-    */
 
-    /*
     issues.forEach( issue => {
         const node = issue.node;
         console.log(`${node.title} - ${node.createdAt} - ${node.author.login}`);
     });
-    */
 
     const feed = new RSS({
         title: process.env.TITLE,
