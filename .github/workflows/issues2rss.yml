@@ -10,7 +10,7 @@ on:
         - labeled
 
 jobs:
-  manual_issue_to_rss:
+  issue_to_rss:
     runs-on: ubuntu-latest
 
     steps:
