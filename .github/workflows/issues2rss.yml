@@ -1,6 +1,9 @@
 name: Issue to RSS
 
 on:
+  workflow_dispatch:
+  issues:
+    types: [opened, edited, deleted, labeled]
   issue_comment:
     types: [created, deleted]
 
